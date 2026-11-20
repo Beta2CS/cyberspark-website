@@ -1,296 +1,85 @@
 # Imported from https://www.cyberspark.uk/ (Craeft).
 {
   "title": "Home",
-  "seo": {"title": "Software Development Company UK | CyberSpark", "description": "CyberSpark is a UK software development company: bespoke software, web and mobile apps, AI, SEO and AI search, and dedicated developer teams in India."},
+  "seo": {
+    "title": "Software Development Company UK | CyberSpark",
+    "description": "CyberSpark is a UK software development company: bespoke software, web and mobile apps, AI, SEO and AI search, and dedicated developer teams in India."
+  },
   "updatedAt": "2026-11-20",
-  "blocks":
-    [
-      {"blockType": "hero", "variant": "home", "buttons": [{"label": "Book a free call", "href": "/contact"}, {"label": "What we do", "href": "/services"}], "title": "A UK Software Development Company That Supports You After Launch.", "lead": "CyberSpark is a UK software development company: bespoke software, web and mobile apps, AI, SEO and AI search, and dedicated developer teams in India.", eyebrow: Revert check two},
-      {
-          "blockType": "prose",
-          "body": "CyberSpark builds bespoke software, websites and mobile apps for UK businesses, and helps UK tech companies hire developers in India. We are registered in London, our engineering team is in India, and you own everything we build for you.
-
-
-            Trusted by
-
-
-            ![pragtex](/media/imported/pragtex.svg)
-
-
-            ![Sol Scientifics](/media/imported/sol-scientific.svg)
-
-
-            ![AfAMax](/media/imported/afamax.svg)"
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "home",
+      "buttons": [
+        {
+          "label": "Book a free call",
+          "href": "/contact"
         },
-      {
-          "blockType": "prose",
-          "eyebrow": "Our own products",
-          "title": "Products we built because we needed them",
-          "body": "We built these for problems in our own work: hiring engineers, running a team across two countries, and being found in AI search. Other companies can use them too.
-
-
-            ![WorkSpace leave dashboard](/media/imported/workspace-leaves-dashboard-1000.webp)
-
-
-            ### WorkSpace by CyberSpark
-
-
-            - In-app Git & code review workflows
-
-
-            - Automated commit & activity heatmaps
-
-
-            ![SparkTalent admin proctoring hub](/media/imported/sparktalent-admin-proctoring-hub-991.webp)
-
-
-            ### SparkTalent Platform
-
-
-            - 5 versatile technical assessment formats
-
-
-            - Face tracking & tab-switching proctoring
-
-
-            ![AI Visibility Check audit dashboard](/media/imported/ai-audit-dashboard-1600.webp)
-
-
-            ### AI Visibility Check
-
-
-            - Real-time citation audits across 6 LLMs
-
-
-            - Local map pack & competitor entity probes"
-        },
-      {
-          "blockType": "prose",
-          "eyebrow": "CORE CAPABILITIES",
-          "title": "Software Development Services for UK Businesses",
-          "body": "Most clients come to us with one of four needs. Each has its own page with how we work, what is included and answers to common questions.
-
-
-            ### Bespoke Software & Enterprise Platforms
-
-
-            When off-the-shelf software no longer fits how your business works, we build software that does. Internal systems, customer platforms, integrations and legacy modernisation, scoped with you and built in stages."
-        },
-      {
-          "blockType": "prose",
-          "eyebrow": "DELIVERY RIGOR",
-          "title": "How a Project Runs",
-          "body": "You see working software early and often, decisions are written down, and you can steer at every stage.
-
-
-            - 01FirstDiscovery & ArchitectureUnderstand the problem before proposing a solution
-
-
-            - 02NextTeam & SetupThe right people, access and working rhythm
-
-
-            - 03Every sprintBuild in Short StagesWorking software you can try, early and often
-
-
-            - 04OngoingLaunch & SupportLaunch is the start, not the end
-
-
-            ### Discovery & Architecture
-
-
-            We talk to the people who will use the software, look at your current systems and data, and agree what the first release must do. You get a written scope before any production code is written.
-
-
-            Expected window: First
-
-
-            - Written scope and first-release plan
-
-
-            - Architecture and technology choices, explained
-
-
-            - Contract and NDA with our UK company"
-        },
-      {
-          "blockType": "prose",
-          "eyebrow": "WHY CYBERSPARK",
-          "title": "Why UK Companies Work With CyberSpark",
-          "body": "Most outsourcing problems come from unclear contracts, lost context and teams that disappear after launch. We are set up to avoid all three.
-
-
-            - A UK company to contract with, and you own the code
-
-
-            - Talk directly to the engineers doing the work
-
-
-            - Employer of Record available, with no Indian company needed
-
-
-            CONTRACTS & OWNERSHIP
-
-
-            ### A UK Contract, and the Code Is Yours
-
-
-            You contract with Cyber Spark IT Services Ltd in London. What we build for you belongs to you, and we handle personal data with UK GDPR in mind.
-
-
-            - Contract and NDA with our London company
-
-
-            - Code, designs and documentation assigned to you
-
-
-            DIRECT ACCESS
-
-
-            ### Talk to the People Building It
-
-
-            You work directly with the engineers on your project, so questions and decisions don't get lost in a chain of hand-offs.
-
-
-            - Shared chat, project board and repositories
-
-
-            - Standups in the UK–India overlap hours
-
-
-            HIRING IN INDIA
-
-
-            ### A Team in India Without an Indian Company
-
-
-            Build a team in India without registering a company there. We handle employment, payroll and compliance, and you direct the work.
-
-
-            - Payroll, Provident Fund and statutory benefits handled
-
-
-            - Candidates assessed on real tasks with SparkTalent"
-        },
-      {
-          "blockType": "prose",
-          "eyebrow": "CLIENT FEEDBACK",
-          "title": "Voices of Our Clients",
-          "body": "What founders say about working with us.
-
-
-            ![pragtex logo](/media/imported/pragtex.svg)
-
-
-            pragtex
-
-
-            Software products, Friedrichshafen, Germany
-
-
-            > “
-
-
-            Cyber Spark moved our platform from concept to reliable production with clear communication and high engineering quality at every stage.
-
-
-            ![](/media/imported/manfred.webp)
-
-
-            Manfred Mayer-Rieger
-
-
-            Managing Director, pragtex
-
-
-            ![pragtex logo](/media/imported/pragtex.svg)
-
-
-            ![Sol Scientifics logo](/media/imported/sol-scientific.svg)
-
-
-            ![AfAMax logo](/media/imported/afamax.svg)"
-        },
-      {
-          "blockType": "prose",
-          "eyebrow": "CHOOSING A SOFTWARE DEVELOPMENT COMPANY",
-          "title": "How to Choose a Software Development Company in the UK",
-          "body": "Most software projects that go wrong fail for the same reasons: a vague scope, a team you never meet, code you don't own, and a supplier who disappears after launch. Whoever you choose, these questions separate a good software development company from a risky one:
-
-
-            | Ask | Why it matters | How we answer it |
-
-            | --- | --- | --- |
-
-            | Who will build it? | The people in the sales call are often not the people who write the code. | You talk directly to the engineers on your project. |
-
-            | How do you scope before quoting? | A price without discovery is a guess, and guesses turn into change requests. | Discovery first, then a written scope and a fixed quote for it. |
-
-            | How often will I see working software? | Months without a demo hide problems until they are expensive. | Working software at the end of every sprint, on a staging site you can try. |
-
-            | Who owns the code and accounts? | Without ownership you are locked in to one supplier. | The code, designs and documentation are yours, in your accounts. |
-
-            | What happens after launch? | All software needs updates, fixes and new features. | We stay on for support, updates and new features. |
-
-            | Do I need custom software at all? | Sometimes an existing product does the job for less. | We will say so, and help you choose one. |
-
-
-            If you are still deciding what to build, our guide to bespoke software development in the UK explains when custom software makes sense and when it doesn't."
-        },
-      {
-          "blockType": "prose",
-          "eyebrow": "MORE WAYS WE HELP",
-          "title": "Hiring in India and Getting Found",
-          "body": "### Offshore Software Development
-
-
-            A dedicated team in India that works on your product, with a UK company to contract with.
-
-
-            ### Employer of Record (EOR) India
-
-
-            Employ engineers you choose in India, with payroll, benefits and compliance handled, without an Indian company.
-
-
-            ### Software Outsourcing & Augmentation
-
-
-            Hand us a defined scope and we deliver the working software, documentation and code.
-
-
-            ### AI Search Visibility & GEO
-
-
-            Help AI assistants such as ChatGPT, Gemini and Perplexity find, understand and recommend your business.
-
-
-            ### Technical SEO & Architecture
-
-
-            Speed, crawling, indexing and structured data fixed in your code, not just reported.
-
-
-            ### Local Search & Authority
-
-
-            Google Business Profile, local pages and reviews, so nearby customers find you in Maps and local results."
-        },
-      {"blockType": "prose", "eyebrow": "FREQUENTLY ASKED QUESTIONS", "title": "Questions About Working With a Software Development Company", "body": "Contracts and ownership, time zones, existing code, hiring in India, and how projects are priced."},
-      {
-          "blockType": "prose",
-          "eyebrow": "START A CONVERSATION",
-          "title": "Have something you want to build or improve?",
-          "body": "Tell us about your idea, your current system or the team you want to grow, and we will help you work out the practical next steps.
-
-
-            - Shaped around your goals
-
-
-            - With the engineers who would do the work
-
-
-            - Practical next steps you can act on"
+        {
+          "label": "What we do",
+          "href": "/services"
         }
-    ]
+      ],
+      "title": "A UK Software Development Company That Supports You After Launch.",
+      "lead": "CyberSpark is a UK software development company: bespoke software, web and mobile apps, AI, SEO and AI search, and dedicated developer teams in India."
+    },
+    {
+      "blockType": "prose",
+      "body": "CyberSpark builds bespoke software, websites and mobile apps for UK businesses, and helps UK tech companies hire developers in India. We are registered in London, our engineering team is in India, and you own everything we build for you.\n\nTrusted by\n\n![pragtex](/media/imported/pragtex.svg)\n\n![Sol Scientifics](/media/imported/sol-scientific.svg)\n\n![AfAMax](/media/imported/afamax.svg)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Our own products",
+      "title": "Products we built because we needed them",
+      "body": "We built these for problems in our own work: hiring engineers, running a team across two countries, and being found in AI search. Other companies can use them too.\n\n![WorkSpace leave dashboard](/media/imported/workspace-leaves-dashboard-1000.webp)\n\n### WorkSpace by CyberSpark\n\n- In-app Git & code review workflows\n\n- Automated commit & activity heatmaps\n\n![SparkTalent admin proctoring hub](/media/imported/sparktalent-admin-proctoring-hub-991.webp)\n\n### SparkTalent Platform\n\n- 5 versatile technical assessment formats\n\n- Face tracking & tab-switching proctoring\n\n![AI Visibility Check audit dashboard](/media/imported/ai-audit-dashboard-1600.webp)\n\n### AI Visibility Check\n\n- Real-time citation audits across 6 LLMs\n\n- Local map pack & competitor entity probes"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CORE CAPABILITIES",
+      "title": "Software Development Services for UK Businesses",
+      "body": "Most clients come to us with one of four needs. Each has its own page with how we work, what is included and answers to common questions.\n\n### Bespoke Software & Enterprise Platforms\n\nWhen off-the-shelf software no longer fits how your business works, we build software that does. Internal systems, customer platforms, integrations and legacy modernisation, scoped with you and built in stages."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "DELIVERY RIGOR",
+      "title": "How a Project Runs",
+      "body": "You see working software early and often, decisions are written down, and you can steer at every stage.\n\n- 01FirstDiscovery & ArchitectureUnderstand the problem before proposing a solution\n\n- 02NextTeam & SetupThe right people, access and working rhythm\n\n- 03Every sprintBuild in Short StagesWorking software you can try, early and often\n\n- 04OngoingLaunch & SupportLaunch is the start, not the end\n\n### Discovery & Architecture\n\nWe talk to the people who will use the software, look at your current systems and data, and agree what the first release must do. You get a written scope before any production code is written.\n\nExpected window: First\n\n- Written scope and first-release plan\n\n- Architecture and technology choices, explained\n\n- Contract and NDA with our UK company"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "WHY CYBERSPARK",
+      "title": "Why UK Companies Work With CyberSpark",
+      "body": "Most outsourcing problems come from unclear contracts, lost context and teams that disappear after launch. We are set up to avoid all three.\n\n- A UK company to contract with, and you own the code\n\n- Talk directly to the engineers doing the work\n\n- Employer of Record available, with no Indian company needed\n\nCONTRACTS & OWNERSHIP\n\n### A UK Contract, and the Code Is Yours\n\nYou contract with Cyber Spark IT Services Ltd in London. What we build for you belongs to you, and we handle personal data with UK GDPR in mind.\n\n- Contract and NDA with our London company\n\n- Code, designs and documentation assigned to you\n\nDIRECT ACCESS\n\n### Talk to the People Building It\n\nYou work directly with the engineers on your project, so questions and decisions don't get lost in a chain of hand-offs.\n\n- Shared chat, project board and repositories\n\n- Standups in the UK–India overlap hours\n\nHIRING IN INDIA\n\n### A Team in India Without an Indian Company\n\nBuild a team in India without registering a company there. We handle employment, payroll and compliance, and you direct the work.\n\n- Payroll, Provident Fund and statutory benefits handled\n\n- Candidates assessed on real tasks with SparkTalent"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CLIENT FEEDBACK",
+      "title": "Voices of Our Clients",
+      "body": "What founders say about working with us.\n\n![pragtex logo](/media/imported/pragtex.svg)\n\npragtex\n\nSoftware products, Friedrichshafen, Germany\n\n> “\n\nCyber Spark moved our platform from concept to reliable production with clear communication and high engineering quality at every stage.\n\n![](/media/imported/manfred.webp)\n\nManfred Mayer-Rieger\n\nManaging Director, pragtex\n\n![pragtex logo](/media/imported/pragtex.svg)\n\n![Sol Scientifics logo](/media/imported/sol-scientific.svg)\n\n![AfAMax logo](/media/imported/afamax.svg)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CHOOSING A SOFTWARE DEVELOPMENT COMPANY",
+      "title": "How to Choose a Software Development Company in the UK",
+      "body": "Most software projects that go wrong fail for the same reasons: a vague scope, a team you never meet, code you don't own, and a supplier who disappears after launch. Whoever you choose, these questions separate a good software development company from a risky one:\n\n| Ask | Why it matters | How we answer it |\n| --- | --- | --- |\n| Who will build it? | The people in the sales call are often not the people who write the code. | You talk directly to the engineers on your project. |\n| How do you scope before quoting? | A price without discovery is a guess, and guesses turn into change requests. | Discovery first, then a written scope and a fixed quote for it. |\n| How often will I see working software? | Months without a demo hide problems until they are expensive. | Working software at the end of every sprint, on a staging site you can try. |\n| Who owns the code and accounts? | Without ownership you are locked in to one supplier. | The code, designs and documentation are yours, in your accounts. |\n| What happens after launch? | All software needs updates, fixes and new features. | We stay on for support, updates and new features. |\n| Do I need custom software at all? | Sometimes an existing product does the job for less. | We will say so, and help you choose one. |\n\nIf you are still deciding what to build, our guide to bespoke software development in the UK explains when custom software makes sense and when it doesn't."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "MORE WAYS WE HELP",
+      "title": "Hiring in India and Getting Found",
+      "body": "### Offshore Software Development\n\nA dedicated team in India that works on your product, with a UK company to contract with.\n\n### Employer of Record (EOR) India\n\nEmploy engineers you choose in India, with payroll, benefits and compliance handled, without an Indian company.\n\n### Software Outsourcing & Augmentation\n\nHand us a defined scope and we deliver the working software, documentation and code.\n\n### AI Search Visibility & GEO\n\nHelp AI assistants such as ChatGPT, Gemini and Perplexity find, understand and recommend your business.\n\n### Technical SEO & Architecture\n\nSpeed, crawling, indexing and structured data fixed in your code, not just reported.\n\n### Local Search & Authority\n\nGoogle Business Profile, local pages and reviews, so nearby customers find you in Maps and local results."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Questions About Working With a Software Development Company",
+      "body": "Contracts and ownership, time zones, existing code, hiring in India, and how projects are priced."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "START A CONVERSATION",
+      "title": "Have something you want to build or improve?",
+      "body": "Tell us about your idea, your current system or the team you want to grow, and we will help you work out the practical next steps.\n\n- Shaped around your goals\n\n- With the engineers who would do the work\n\n- Practical next steps you can act on"
+    }
+  ]
 }
