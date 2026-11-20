@@ -1,0 +1,63 @@
+# Imported from https://www.cyberspark.uk/cookie-policy (Craeft).
+{
+  "title": "Cookie",
+  "seo": {
+    "title": "Cookie Policy | CyberSpark",
+    "description": "Which cookies the CyberSpark website uses, why we use them, and how you can accept, reject or change your cookie preferences at any time on this site."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Cookie Policy",
+      "lead": "Which cookies the CyberSpark website uses, why we use them, and how you can accept, reject or change your cookie preferences at any time on this site."
+    },
+    {
+      "blockType": "prose",
+      "body": "How and why we use cookies, and the controls available to manage cookie preferences while using our site."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Last updated 27 September 2026",
+      "title": "1. What Cookies Are",
+      "body": "Cookies are small text files a website stores on your device. We also use similar browser storage (localStorage) to remember your cookie choice. This policy explains what we use on [www.cyberspark.uk](/) and how you can control them."
+    },
+    {
+      "blockType": "prose",
+      "title": "2. The Cookies We Use",
+      "body": "- Necessary — remember your cookie choice and run Cloudflare Turnstile, which tells people from bots on our forms. These are always active: the site can't work properly without them, and they don't need consent.\n\n- Analytics — Google Analytics 4 and Microsoft Clarity, loaded through Google Tag Manager, tell us which pages are visited and how the site is used, so we can improve it. These only run if you click \"Accept\" on the cookie banner.\n\nWe don't use advertising or cross-site tracking cookies on this website."
+    },
+    {
+      "blockType": "prose",
+      "title": "3. Cookies Set When You Accept Analytics",
+      "body": "- _ga, _ga_* — Google Analytics 4, distinguishes visitors, up to 2 years.\n\n- _clck, _clsk — Microsoft Clarity, distinguishes visitors and sessions, up to 1 year."
+    },
+    {
+      "blockType": "prose",
+      "title": "4. How Consent Works",
+      "body": "When you first visit, a banner asks you to Accept or Reject analytics cookies. Nothing beyond the necessary cookies above runs until you click Accept. Google's Consent Mode keeps analytics and advertising signals switched off by default and only turns them on if you accept. Your choice is remembered in your browser until you clear your browser data or change it below."
+    },
+    {
+      "blockType": "prose",
+      "title": "5. Changing Your Choice",
+      "body": "Click \"Cookie settings\" in the footer of any page to reopen the banner and change your choice at any time. You can also block or delete cookies through your browser's settings, though this may affect how some parts of the site work."
+    },
+    {
+      "blockType": "prose",
+      "title": "6. Changes to This Policy",
+      "body": "We may update this policy if the cookies we use change. The date at the top shows when it was last revised."
+    },
+    {
+      "blockType": "prose",
+      "title": "7. Contact Us",
+      "body": "Questions about this policy — email [info@cyberspark.uk](mailto:info@cyberspark.uk)."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Live Personalized Demo",
+      "title": "Ready to make your impact?",
+      "body": "We'd love to show you how we can help your firm achieve its full potential via a personalized, live demo.\n\n- Personalized to your business goals\n\n- Led by engineering specialists\n\n- Actionable plan you can execute quickly"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+# Imported from https://www.cyberspark.uk/services/bespoke-software-development (Craeft).
+{
+  "title": "Bespoke Software Development Company UK",
+  "seo": {
+    "title": "Bespoke Software Development Company UK | CyberSpark",
+    "description": "CyberSpark is a UK bespoke software development company. We design and build custom business software, web platforms and integrations that you fully own."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Bespoke Software Development Company UK",
+      "lead": "CyberSpark is a UK bespoke software development company. We design and build custom business software, web platforms and integrations that you fully own."
+    },
+    {
+      "blockType": "prose",
+      "body": "We design and build bespoke software for UK businesses — internal systems, customer-facing web platforms, custom CRMs and integrations — around the way you actually work. From modernising a legacy system to building a new platform, you own 100% of the code.\n\nEngineering Scope & Governance\n\n- You own the code and IP\n\n- Direct Senior UK Engineering Lead Access\n\n- Bi-Weekly Agile Sprints & Staging Deployments\n\n- Built for UK GDPR\n\n- **Outcome 01:** Software Built Around Your Processes\n\n- **Outcome 02:** Phased Delivery You Can See\n\n- **Outcome 03:** No vendor lock-in\n\n- **Outcome 04:** Fixed-Price Scoping"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "ENGINEERING DEFINITION & STRATEGY",
+      "title": "What is Bespoke Software Development?",
+      "body": "Bespoke software development is the engineering of tailored digital applications designed around an organisation's exact operational workflows, regulatory obligations, and technical infrastructure. Unlike off-the-shelf software or rigid SaaS subscriptions, custom software eliminates recurring per-seat license inflation, resolves legacy bottlenecks, and provides unconstrained scalability with complete data sovereignty.\n\nWhether building internal operational platforms, customer-facing web applications, custom CRMs/ERPs, or high-throughput API integrations, bespoke software aligns technology directly with your business strategy."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "SELECTED CLIENT WORK",
+      "title": "Selected Client Implementations & Platforms",
+      "body": "We architect and deliver bespoke platforms across regulated, data-intensive, and operational sectors:\n\n### Healthcare & Life Sciences\n\n- [OncoPro AI](https://www.oncoproai.com/) — Oncology intelligence & clinical AI diagnostic workflows.\n\n- [Sol Scientifics](https://www.solscientifics.com/) — Scientific laboratory & analytical equipment platform.\n\n- [Freya IVF](https://www.freyaivf.com/) — Reproductive health, patient portal & clinical management systems.\n\n![Healthcare & Life Sciences Platforms](/media/imported/health-care-and-life-sciences-1536.webp)\n\n### Education & EdTech\n\n- [Manchester Education](https://manchestereducation.net/) — Digital learning, course discovery & admissions platform.\n\n![Education & EdTech Platforms](/media/imported/education-and-edtech-1448.webp)\n\n### Real Estate & PropTech\n\n- [Dunes & Bricks](https://dunesandbricks.com/) — Real estate investment, luxury property & development portal.\n\n- [Vogue Lettings](http://voguelettings.com/) — Property lettings, tenant management & tenancy workflows.\n\n![Real Estate & PropTech Platforms](/media/imported/realestate-1536.webp)\n\n### Smart Infrastructure & Security\n\n- [Infinity Solutions](https://infinity-sol.co.uk/) — Network infrastructure, smart systems & enterprise access control.\n\n![Smart Infrastructure & Security Platforms](/media/imported/smart-infrastructure-and-security-1448.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "BESPOKE VS OFF-THE-SHELF",
+      "title": "Bespoke Software vs Off-the-Shelf: Which Is Right for You?",
+      "body": "When evaluating whether to build custom software or buy off-the-shelf products (COTS / SaaS), consider how each model impacts total cost of ownership, flexibility, and operational efficiency:\n\n| Evaluation factor | Bespoke software engineering | Off-the-shelf (COTS / SaaS) |\n| --- | --- | --- |\n| Intellectual property (IP) | 100% client-owned. You own the source code, data schemas, and assets from day one. | Vendor-owned. You rent access; zero asset equity or code transfer. |\n| Workflow alignment | Exact fit. Tailored to your specific business logic and operational workflows. | Generic. Requires manual workarounds and compromise on processes. |\n| Total cost of ownership (TCO) | Capital asset. Upfront build cost with zero recurring per-user license hikes. | Compounding expense. Per-seat subscriptions scale continuously with headcount. |\n| Integration flexibility | Direct and unlimited. Native REST/GraphQL APIs, webhooks, and legacy connectors. | Restricted. Dependent on third-party marketplace connectors and API rate limits. |\n| Security & compliance | Dedicated governance. Custom encryption, UK data residency, and audit logging. | Shared responsibility. Multi-tenant infrastructure subject to third-party policies. |"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "DELIVERY METHODOLOGY",
+      "title": "A Structured, Risk-Aware Delivery Methodology",
+      "body": "Our 4-stage agile lifecycle eliminates ambiguity, reduces risk, and delivers rapid time-to-value:\n\n- 01Weeks 1–2DiscoverStage 01 · Alignment & Workshops\n\n- 02Weeks 3–4DesignStage 02 · Systems & Prototyping\n\n- 03Weeks 5–10DeliverStage 03 · Agile Sprints & Testing\n\n- 04OngoingScaleStage 04 · Governance & Support\n\n### Discover\n\nClarify business goals, user personas, technical constraints, and success criteria with stakeholders and technical discovery workshops.\n\nExpected window: Weeks 1–2\n\n- Stakeholder & User Persona Alignment\n\n- Technical Constraints & Architecture Outline"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "WHY CYBERSPARK",
+      "title": "Why Choose CyberSpark as Your UK Partner",
+      "body": "UK engineering governance & direct access\n\n### Direct Collaboration with Senior Engineers\n\nWork directly with our experienced UK-based senior engineers and technical leads, with no non-technical account manager in between.\n\n### UK Registered Entity & London Presence\n\nCYBER SPARK IT SERVICES LTD is a registered UK company (Company No. 14891489) with its registered office in London, United Kingdom.\n\n### Strict UK Data & Security Standards\n\nDesigned around the UK GDPR and Data Protection Act 2018, with secure cloud governance.\n\n### 100% IP & Source Code Ownership\n\nFull repository transfer upon completion, including clean Git histories, Docker container configs, Terraform scripts, and comprehensive API documentation."
+    },
+    {
+      "blockType": "prose",
+      "title": "Expected Business Outcomes",
+      "body": "Measurable operational impact & velocity\n\n### Faster Operations & Reduced Rework\n\nStreamlined workflows and intelligent automation eliminate manual data entry, duplicate processing, and repetitive admin overhead.\n\n### Lower Technical Debt & Higher Velocity\n\nModular, well-documented codebases make new features quicker and safer to add, without compounding legacy architectural debt.\n\n### Complete Asset Ownership\n\n100% ownership of your proprietary software and algorithms, boosting balance sheet asset equity and company valuation.\n\n### Stronger System Reliability\n\nCloud infrastructure designed for resilience, with monitoring, backups and room to scale as usage grows."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions",
+      "body": "Practical answers regarding bespoke development budgets, sprint timelines, IP rights, and legacy transitions."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE FURTHER",
+      "title": "Related Services & Strategic Guides",
+      "body": "### Employer of Record (EOR) - India\n\nExpand technical delivery capacity in India through a compliant EOR model.\n\n### Bespoke Software Strategy UK (Blog)\n\nGuide on evaluating custom software vs SaaS for UK organisations.\n\n### Cloud Migration Strategy for UK Organisations: A Practical Plan\n\nCloud migration is as much an operational change as a technical one. This guide covers how UK organisations can plan it, stay compliant, keep costs under control and move in phases that limit risk."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "PICK YOUR DEMO FOCUS",
+      "title": "Schedule a Personalised Live Demo",
+      "body": "We tailor our live technical walkthroughs to your exact stage and operational goals.\n\n- 45-minute technical session\n\n- Architecture roadmap included\n\n- Live technical Q&A with senior engineers"
+    }
+  ]
+}

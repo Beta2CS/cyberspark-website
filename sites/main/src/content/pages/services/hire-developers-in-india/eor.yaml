@@ -1,0 +1,69 @@
+# Imported from https://www.cyberspark.uk/services/hire-developers-in-india/eor (Craeft).
+{
+  "title": "Employer of Record (EOR) India for UK Tech Companies",
+  "seo": {
+    "title": "Employer of Record (EOR) India for UK Companies | CyberSpark",
+    "description": "Employer of Record in India for UK companies. We employ your engineers in India and run INR payroll, PF, ESI, TDS and contracts while you direct the work."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Employer of Record (EOR) India for UK Tech Companies",
+      "lead": "Employer of Record in India for UK companies. We employ your engineers in India and run INR payroll, PF, ESI, TDS and contracts while you direct the work."
+    },
+    {
+      "blockType": "prose",
+      "body": "CyberSpark legally employs software engineers and technical staff in India on behalf of UK companies — INR payroll, Provident Fund, ESI, Professional Tax, and compliant employment contracts. You direct the work. We carry the India employment compliance. No Indian entity required.\n\nAt a Glance\n\n- Employment contracts under Indian law\n\n- Monthly INR payroll and payslips\n\n- PF, ESI, Professional Tax, TDS and gratuity\n\n- Leave tracked in WorkSpace\n\n- **Outcome 01:** No Indian entity needed\n\n- **Outcome 02:** One UK contract, one GBP invoice a month\n\n- **Outcome 03:** 5–10 working days to first hire\n\n- **Outcome 04:** Code and IP assigned to you from day one"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "What's covered",
+      "title": "What CyberSpark's EOR India Service Covers",
+      "body": "CyberSpark provides full-lifecycle employment and statutory governance in India under a single UK-law contract. You manage the engineering work; CyberSpark handles the legal employment infrastructure.\n\n### Employment Contracts\n\nCompliant offer letter and appointment letter issued in Indian law. Role description, compensation structure, notice period, and IP assignment clause — all reviewed and issued by CyberSpark before the engineer's first day.\n\n### Monthly INR Payroll\n\nGross salary disbursed to the employee's Indian bank account monthly on a reliable schedule. Digital payslips issued in compliant format. All statutory deductions accurately calculated and applied.\n\n### Integrated Tooling\n\nCandidate screening via [SparkTalent](/products/sparktalent) in real Git repos with live automated QA. Multi-country leave tracking via [WorkSpace](/products/workspace) keeping Indian statutory leave and UK sprint schedules synchronised.\n\n### Your Monthly Invoice\n\nOne consolidated invoice in GBP covering gross salary, employer statutory contributions, and CyberSpark's management fee. Zero INR currency exposure, no Indian tax filings, and no statutory registrations on your side.\n\n### Statutory Contributions, Managed in Full\n\nEvery statutory requirement under Indian labour law below is monitored and remitted directly by CyberSpark:\n\n| Statutory requirement | Governing authority / Act | Rate |\n| --- | --- | --- |\n| Provident Fund (PF) | Code on Social Security, 2020 (EPFO) | 12% of wages (allowances above 50% of pay count as wages) |\n| Employee State Insurance (ESI) | Code on Social Security, 2020 (ESIC) | 3.25% employer, for wages up to ₹21,000 a month |\n| Professional Tax (PT) | State-specific enactments (e.g. Karnataka, Maharashtra) | Set by each state, capped at ₹2,500 a year |\n| TDS on Salary | Income-tax Act, 2025 (section 192 of the 1961 Act until March 2026) | Per income tax slab |\n| Annual Form 16 | Certificate of Tax Deducted at Source (UK P60 equivalent) | Annual statutory issuance |\n| Gratuity | Code on Social Security, 2020 | 15 days' wages per year of service, after 5 years (1 year for fixed-term staff) |\n\nThese rates follow India's four labour codes, which came into force on 21 November 2025 and replaced the older Acts (including the EPF Act, 1952, the ESI Act, 1948 and the Payment of Gratuity Act, 1972). For a walkthrough of the whole process, from choosing the model to an employee's exit, read our step-by-step Employer of Record guide for UK companies. For dedicated statutory employment services and loaded salary cost modeling, you can also explore our specialised portal at [EOR Services UK](https://www.eor-services.co.uk/)."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Who it's for",
+      "title": "Who This Service Is For",
+      "body": "CyberSpark's EOR service is structured specifically for UK tech companies scaling their engineering velocity:\n\nEarly scaling\n\n### UK Tech Startups & Scale-ups\n\nMaking your first 1–5 India hires. EOR removes the 3–6 month wait for entity incorporation and gets compliant employment in place within days.\n\nDirect placement\n\n### Existing India Relationships\n\nUK companies with an existing contractor, vendor team member, or referral who want to bring that person into formal employment with statutory coverage and clear IP ownership.\n\nBrand control\n\n### Offshore Teams Under Your Brand\n\nUK companies using CyberSpark for offshore development who want specific engineers employed directly under their corporate brand rather than as CyberSpark staff.\n\nMarket entry\n\n### Evaluating India Before an Entity\n\nCompanies evaluating India before committing to an entity — EOR is the lowest-risk way to test India as a hiring location with zero winding-up complexity.\n\nIP assignment under English law\n\n### Intellectual Property Is Yours from Day One\n\nEvery EOR employment contract includes an invention assignment clause: all work product, code, and intellectual property created during employment is assigned to the instructing UK company from the moment of creation.\n\nThis is confirmed in both the UK-law commercial agreement with CyberSpark and the Indian-law employment contract issued to the engineer. Both legal layers are fully executed before day one."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EOR or your own entity",
+      "title": "EOR vs. Setting Up in India — At a Glance",
+      "body": "Before committing to incorporation, UK companies should evaluate the setup timeline, cost, and ongoing regulatory overhead:\n\n| Decision factor | EOR via CyberSpark | Indian Private Limited (Pvt. Ltd.) |\n| --- | --- | --- |\n| Time to first hire | 5–10 working days | Several months (incorporation, bank account, registrations) |\n| Setup cost | No incorporation needed | Legal, incorporation and professional fees |\n| Ongoing compliance | CyberSpark handles it entirely | Your India team, Chartered Accountant & Company Secretary |\n| Minimum viable team | 1 employee | Usually worthwhile only for a larger, long-term team |\n| Exit process | Employment termination notice | Formal company winding-up, which can take many months |\n\nNeed a detailed breakdown? Our guide compares the Pvt. Ltd. setup steps, FDI reporting and when an entity makes sense.\n\n[EOR vs Indian entity guide →](/services/hire-developers-in-india/eor-vs-indian-entity)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "STRUCTURED DEPLOYMENT PIPELINE",
+      "title": "The EOR Process — Four Steps",
+      "body": "From candidate selection to daily sprint delivery, CyberSpark follows a proven four-stage deployment pipeline:\n\n- 01Day 1Agree the HireRole & Terms Confirmation\n\n- 02Days 1–5Employment SetupDays 1–5 Fast Track\n\n- 03OngoingOperations & WorkSpaceDay 5 Onward Ongoing\n\n- 04MonthlyMonthly ReportingSingle GBP Invoice\n\n### Agree the Hire\n\nYou identify the person (optionally pre-screened with SparkTalent); CyberSpark confirms role, compensation, start date, and reporting structure. We review the role for statutory classification implications before proceeding.\n\nExpected window: Day 1\n\n- Role specification & CTC breakdown\n\n- Statutory classification check"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Why CyberSpark",
+      "title": "Why CyberSpark",
+      "body": "Global EOR platforms are aggregators with software interfaces for payroll compliance across dozens of countries. CyberSpark is a UK software engineering company operating EOR as an extension of our existing India delivery infrastructure.\n\n### Your Account Lead Is a Technologist\n\nThey understand what a senior React or Python engineer does, how system architecture works, and why your role specification matters. You speak with engineers, not HR generalists.\n\n### We Build Software & Employ Teams\n\nWe build complex web platforms and employ the dedicated teams building them. No pure-play EOR platform can credibly offer both bespoke engineering and statutory employment.\n\n### One Bilateral Direct Relationship\n\nUK law governs your agreement with CyberSpark. No three-party structure, no offshore intermediaries, and no subcontracted local payroll agents.\n\n### UK Registered Tech Company\n\nCYBER SPARK IT SERVICES LTD (Co. No. 14891489), London, UK. Bound by English commercial and contract law."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions",
+      "body": "Key questions regarding Indian employment law, statutory compliance, employee transitions, and contract exits."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "GET STARTED WITH EOR INDIA",
+      "title": "Book a Free EOR Consultation",
+      "body": "Schedule a 45-minute session with our UK technical leadership. Walkthrough of EOR structure, transparent loaded cost estimate, and comprehensive compliance Q&A."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE FURTHER",
+      "title": "Related Delivery Models & Guides",
+      "body": "### Offshore Software Development India\n\nDedicated offshore engineering teams with UK solutions architecture oversight. 2-week sprints, IP transferred to you.\n\n### EOR vs Setting Up an Indian Entity\n\nA practical guide for UK tech firms comparing incorporation timelines, compliance costs, and headcount break-even points.\n\n### International Payroll for India Teams\n\nStatutory compliance details for India-based engineers: Provident Fund, ESI, Professional Tax and TDS on salary."
+    }
+  ]
+}

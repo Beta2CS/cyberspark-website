@@ -42,18 +42,6 @@
     "why": "built page"
   },
   {
-    "path": "/insights/cash-flow-basics",
-    "expect": 200,
-    "kind": "page",
-    "why": "built page"
-  },
-  {
-    "path": "/insights/preparing-for-year-end",
-    "expect": 200,
-    "kind": "page",
-    "why": "built page"
-  },
-  {
     "path": "/llms.txt",
     "expect": 200,
     "kind": "file",
@@ -84,9 +72,159 @@
     "why": "generated file"
   },
   {
-    "path": "/team",
+    "path": "/blogs",
     "expect": 200,
     "kind": "page",
-    "why": "built page"
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/careers",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/authors",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/authors/azhar-ali-dar",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/authors/muntazir",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/authors/sameer-bhat",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/authors/sarvar-hussain",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/cookie-policy",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/privacy-policy",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/products",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/products/ai-visibility-check",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/products/filemyltd",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/products/sparktalent",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/products/workspace",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/ai-and-machine-learning-solutions",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/bespoke-software-development",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/hire-developers-in-india",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/hire-developers-in-india/eor",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/hire-developers-in-india/eor-vs-indian-entity",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/hire-developers-in-india/eor-vs-outsourcing",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/hire-developers-in-india/eor-vs-peo",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/hire-developers-in-india/international-payroll",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/hire-developers-in-india/offshore-development",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/hire-developers-in-india/software-outsourcing",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/mobile-app-development",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
+  },
+  {
+    "path": "/services/seo-and-ai-search",
+    "expect": 200,
+    "kind": "page",
+    "why": "imported from the old site"
   }
 ]

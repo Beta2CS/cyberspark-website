@@ -1,0 +1,85 @@
+# Imported from https://www.cyberspark.uk/services/hire-developers-in-india (Craeft).
+{
+  "title": "Hire Developers in India for UK Companies",
+  "seo": {
+    "title": "Hire Developers in India | Offshore Teams & EOR for UK Firms",
+    "description": "Hire developers in India from the UK: a dedicated offshore team, fixed-scope outsourcing or an Employer of Record, with UK technical oversight and your IP."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Hire Developers in India for UK Companies",
+      "lead": "Hire developers in India from the UK: a dedicated offshore team, fixed-scope outsourcing or an Employer of Record, with UK technical oversight and your IP."
+    },
+    {
+      "blockType": "prose",
+      "body": "Build your engineering team in India without opening a company there. Choose a dedicated offshore team, a fixed-scope project or an Employer of Record, with one UK contract and UK technical oversight.\n\nAt a Glance\n\n- Dedicated teams, projects or EOR\n\n- Engineers assessed on real work\n\n- You own the code and IP\n\n- UK technical oversight\n\n- **Outcome 01:** Single UK contract under English law\n\n- **Outcome 02:** No Indian entity needed\n\n- **Outcome 03:** 4–5 hours of daily UK–India overlap\n\n- **Outcome 04:** Standups, leave and Git work in WorkSpace"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "THE BASICS",
+      "title": "How Hiring in India Works With CyberSpark",
+      "body": "Working overlap\n\n4–5 hrs\n\nShared working hours each day between UK mornings and India afternoons\n\nOne contract\n\n1\n\nUK contract under English law and one GBP invoice a month\n\nSpeed to hire\n\n5–10\n\nWorking days to first hire under CyberSpark EOR\n\nIP ownership\n\nYours\n\nCode and IP assigned to you from the first commit"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "STRATEGIC ADVANTAGES",
+      "title": "Why UK Tech Companies Are Hiring in India Right Now",
+      "body": "India is not a cost-cutting measure for the UK tech companies that do it well. It is an engineering capacity and velocity decision.\n\nThe UK technology sector faces a structural talent shortage. [Tech Nation's 2023 report](https://technation.io/report2023/) is one of several UK reports to point to a shortage of experienced engineers, which pushes senior salaries out of reach for many early-stage and growth-stage companies.\n\nIndia's response to that gap is significant. About 5.4 million people work in India's technology sector ([NASSCOM, 2024](https://nasscom.in/knowledge-center/publications/technology-sector-india-2024)), English is the working language of the industry, and many engineers already work with UK and US teams, so the talent pool is both deep and accessible.\n\nCapacity over arbitrage\n\nUK scale-ups do not hire in India solely to reduce expenditure. They hire in India to unblock critical product roadmaps, access specialised full-stack engineers within days rather than quarters, and scale delivery velocity under dedicated UK architectural leadership.\n\n### Three Structural Advantages That Make UK–India Delivery Work in Practice\n\n### 1. Time Zone Overlap\n\nIST is UTC+5:30, so India is 4.5 hours ahead of the UK in summer and 5.5 hours in winter. A 9am UK standup is 1:30pm or 2:30pm IST, within normal working hours for the India team. Morning handover, afternoon delivery: the offset is an operational advantage, not a problem.\n\n### 2. English-First Culture\n\nDocumentation, code comments, client communication and sprint ceremonies run in English without translation overhead. This is not the case in most other offshore markets.\n\n### 3. Established Relationship\n\nIndia is the UK's largest source of skilled worker visas. The legal framework, from employment contracts to IP assignment law, is well understood on both sides."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "DELIVERY MODELS",
+      "title": "What CyberSpark Delivers",
+      "body": "CyberSpark is a UK software development agency that has run India delivery since its founding. We offer three models, all run from the same India engineering base.\n\nModel 01 · Dedicated team\n\n### Offshore Software Development\n\nA dedicated India engineering team working only on your product, under your technical direction. Our UK technical lead governs the technical approach, reviews architecture decisions and attends your sprint reviews. You manage the product; we manage the delivery infrastructure.\n\n- Engineers sourced, technically screened and placed by CyberSpark\n\n- A named team, exclusively yours: no time-sharing with other clients\n\n- 2-week sprints, daily async standups, staging demos every two weeks\n\n- Your IP from the first commit, and a planned handover if an engineer leaves\n\nBest for: ongoing product development and UK-directed teams you want to keep for 6–24+ months.\n\nModel 02 · Fixed deliverables\n\n### Software Development Outsourcing to India\n\nFixed scope, fixed milestones. CyberSpark assembles the team, governs the delivery and hands over a working, fully documented system. Invoices are tied to demonstrated, deployable functionality, not time spent.\n\n- Discovery workshop and a fixed architecture proposal\n\n- Wireframes (Figma), API specification and database schema approved by you\n\n- 2-week sprints with staging environment access\n\n- Full handover (code, API docs, runbooks, test reports); 90-day support available\n\nStacks: React, Next.js, Node.js, Python, FastAPI, Go, AWS, GCP, Azure, React Native, PostgreSQL, MongoDB, Stripe, Salesforce.\n\nBest for: defined build requirements, MVP delivery, and companies without in-house capacity to manage a team.\n\nModel 03 · Compliant employment\n\n### Employer of Record (EOR) India\n\nYou choose the engineers; CyberSpark employs them legally in India on your behalf: contracts, INR payroll, Provident Fund (12% of wages from the employer), Employee State Insurance, Professional Tax and TDS on salary. You direct the work and pay one GBP invoice a month. No Indian entity, INR banking or statutory filings on your side.\n\n- Offer and appointment letters under Indian law within 5–10 days\n\n- Monthly INR payroll, with PF, ESI and PT remitted to EPFO, ESIC and the state\n\n- Annual Form 16 (the Indian P60) for every employee\n\n- IP assignment in every contract; exits handled, from final settlement to relieving letter\n\nBest for: hiring named individuals, moving contractors to employment, or testing India before setting up an entity."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "TOOLING & WORKFLOW",
+      "title": "The Hiring Workflow — From Search to First Sprint",
+      "body": "Most UK companies hiring in India for the first time face two challenges: finding the right engineers, then managing them well across a time zone. CyberSpark's tooling addresses both, so you get a complete operational stack for India delivery, not just the initial placement.\n\nStep 01 · Technical assessment\n\n### Screen With SparkTalent\n\n[SparkTalent](/products/sparktalent) is CyberSpark's technical hiring assessment platform. Before any engineer joins your team, it evaluates them with hands-on IDE challenges in real Git repositories, live QA testing, video interviews and MediaPipe AI-powered anti-cheat monitoring. You see actual code quality, not a CV claim.\n\nThis is how we screen candidates before presenting them to clients. UK companies sourcing their own India engineers can also use SparkTalent on its own to check technical ability before making an EOR hire.\n\nStep 02 · Operational governance\n\n### Onboard Into WorkSpace\n\nOnce your India team is in place, [WorkSpace](/products/workspace) provides the operational layer for UK–India management:\n\n- In-app Git operations: branches, pull requests and issues without leaving the project dashboard.\n\n- Calendar standups: automatic Google Meet links for the UK morning / India afternoon overlap.\n\n- Multi-country leave tracking: India statutory leave (CL, EL, SL) alongside UK leave, with country holiday calendars.\n\n- Velocity metrics: task progress, blockers and team velocity in one view."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CHOOSING A MODEL",
+      "title": "EOR vs. Setting Up a Company in India",
+      "body": "The alternative to EOR is incorporating an Indian Private Limited Company. For most UK tech companies hiring their first few engineers, entity setup is slower, more expensive and operationally heavier than the return warrants.\n\nWith EOR through CyberSpark, your first engineer can start in 5–10 working days with no incorporation and one GBP invoice a month. An Indian Pvt. Ltd. takes several months to set up, then needs an annual audit, MCA filings and an in-house India HR team, and takes months to wind up.\n\nWhen entity setup does make sense: with a larger team and a multi-year commitment, where India is a strategic business location and not just a delivery centre. CyberSpark can manage the transition of EOR employees to your India entity at that stage.\n\n[EOR vs Indian entity: the full guide →](/services/hire-developers-in-india/eor-vs-indian-entity)\n\nNew to hiring in India? How UK technology companies can hire developers in India without a local entity walks through the decision, and our step-by-step Employer of Record guide covers contracts, payroll and exits."
+    },
+    {
+      "blockType": "prose",
+      "title": "EOR vs. Outsourcing vs. Staff Augmentation — Which Model Fits?",
+      "body": "Four ways to work with engineers in India, each a different relationship with the team and the employment. None of them needs an Indian entity.\n\n| Model | You manage the work | Who selects engineers | Formal employment | Continuity | Pricing model | Best for |\n| --- | --- | --- | --- | --- | --- | --- |\n| EOR | Yes | You | Yes (EOR) | Long-term | Per employee/month | Named individual hires |\n| Outsourcing | No | CyberSpark | No | Project duration | Fixed-price / T&M | Defined build |\n| Staff Augmentation | Yes | CyberSpark | No | 1–12 months | Day rate | Short-term gap |\n| Offshore Development | Yes | CyberSpark | No | Long-term | Monthly retainer | Ongoing product |\n\nQuick decision rule: Do you want to manage a team, or buy an outcome? Team → EOR or Offshore. Outcome → Outsourcing. Individual for a short period → Staff Augmentation.\n\n[EOR vs outsourcing vs staff augmentation guide →](/services/hire-developers-in-india/eor-vs-outsourcing)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "STATUTORY PAYROLL COMPLIANCE",
+      "title": "Indian Payroll Compliance — What CyberSpark Manages",
+      "body": "UK companies often underestimate the statutory complexity of employing in India. Under EOR, CyberSpark manages all of it: Provident Fund and Employee State Insurance contributions, state Professional Tax, TDS on salary, the annual Form 16, Shops & Establishments registration and gratuity provisioning. India's four labour codes came into force on 21 November 2025, so salary structures written before then should be reviewed. The payroll guide below has the rates and deadlines.\n\nCTC & Loaded Cost Transparency: Indian salary is typically structured as CTC (Cost to Company), which includes employer statutory contributions. CyberSpark converts CTC to GBP-equivalent loaded cost in all engagement proposals, so there are no hidden statutory cost surprises."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "THE CYBERSPARK ADVANTAGE",
+      "title": "Why CyberSpark — Not a Pure EOR Platform or a Pure Agency",
+      "body": "Many providers in this space offer one capability: an EOR platform handles payroll compliance but cannot build software, and an offshore agency delivers projects but does not offer compliant employment. We offer both, from the same India engineering base.\n\n### Technologist-Led\n\nYour account manager understands what a senior React developer does. The role specification you send gets interpreted correctly, not processed by a payroll administrator.\n\n### Screened Before You See Them\n\nEvery engineer presented to a client has been technically interviewed by a CyberSpark UK engineering team. We do not forward CVs from a database.\n\n### Build & Employ Simultaneously\n\nCyberSpark can offshore-develop your product and legally employ the team building it under EOR.\n\n### Operational Since Founding\n\nOur India delivery is not a product launched to capture a market trend. It is how we have delivered software for UK clients from day one.\n\n### UK-Registered & UK-Accountable\n\nCYBER SPARK IT SERVICES LTD (Co. No. 14891489). Your commercial agreement is governed by English law. All India employment compliance is CyberSpark's contractual responsibility."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions",
+      "body": "Everything you need to know about hiring in India, statutory compliance, code IP ownership, and operational time zones.\n\nREADY TO START?"
+    },
+    {
+      "blockType": "prose",
+      "title": "Scale Your Engineering Capacity with Confidence",
+      "body": "Model recommendation · Cost estimate · Compliance Q&A · No commitment required.\n\n- 45-Minute Consultation: Model recommendation and cost estimates with zero obligation.\n\n- Direct UK Governance: CYBER SPARK IT SERVICES LTD, London, UK.\n\n- Full Compliance: Indian payroll, PF, ESI, TDS, and IP assignment governed under English law.\n\n- Email: info@cyberspark.uk · London HQ"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE SERVICES & STRATEGIC GUIDES",
+      "title": "Specialised India Delivery Models & Deep-Dive Guides",
+      "body": "### Employer of Record (EOR) India\n\nLegally employ named software engineers in India under UK contracts with zero Indian corporate entity required.\n\n### Offshore Software Development India\n\nDedicated UK-directed engineering teams for ongoing product development and technical roadmap velocity.\n\n### Software Development Outsourcing to India\n\nDefined software scope, milestone invoicing, and UK architecture governance for turnkey systems.\n\n### International Payroll for India Teams\n\nStatutory PF, ESI, Professional Tax, and TDS managed in full with single monthly GBP invoice conversion.\n\n### EOR vs Setting Up a Company in India\n\nIncorporation steps, ongoing compliance and when your own Indian entity makes sense.\n\n### EOR vs Outsourcing vs Staff Augmentation\n\nStrategic comparison framework helping UK tech firms select the right hiring model for their engineering roadmap."
+    }
+  ]
+}

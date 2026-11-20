@@ -1,0 +1,31 @@
+# Imported from https://www.cyberspark.uk/authors/muntazir (Craeft).
+{
+  "title": "Muntazir",
+  "seo": {
+    "title": "Muntazir, Software Engineer | CyberSpark",
+    "description": "Articles by Muntazir, Software Engineer at CyberSpark: Software Development Challenges in the UK: A Practical Guide for 2026; What Is llms.txt, and Does Your We"
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Muntazir",
+      "lead": "Articles by Muntazir, Software Engineer at CyberSpark: Software Development Challenges in the UK: A Practical Guide for 2026; What Is llms.txt, and Does Your We"
+    },
+    {
+      "blockType": "prose",
+      "body": "Software Engineer at CyberSpark\n\n![Muntazir](/media/imported/muntazir-400.webp)"
+    },
+    {
+      "blockType": "prose",
+      "title": "Muntazir",
+      "body": "Software Engineer"
+    },
+    {
+      "blockType": "prose",
+      "title": "Latest Articles",
+      "body": "Fresh writing focused on real delivery challenges and practical implementation choices.\n\n![Software Development Challenges in the UK: A Practical Guide for 2026](/media/imported/unsplash-code-on-screen-1600.webp)\n\n### Software Development Challenges in the UK: A Practical Guide for 2026\n\nHiring is slow, the stack keeps moving, and compliance never stands still. Here are the eight challenges UK software teams run into most often, and the practical ways we see teams get past them.\n\n![What Is llms.txt, and Does Your Website Need One?](/media/imported/unsplash-code-lines-screen-1600.webp)\n\n### What Is llms.txt, and Does Your Website Need One?\n\nllms.txt is a small Markdown file that summarises your site for AI tools. Here is what goes in one, how it differs from robots.txt, what is known about who reads it, and whether it's worth your time.\n\n![Employer of Record in India: A Step-by-Step Guide for UK Companies](/media/imported/unsplash-remote-video-call-1600.webp)\n\n### Employer of Record in India: A Step-by-Step Guide for UK Companies\n\nA practical, step-by-step guide to hiring in India through an Employer of Record: structuring the salary, the contract, onboarding, monthly payroll, UK-side obligations and what happens when someone leaves.\n\n![Cloud Migration Strategy for UK Organisations: A Practical Plan](/media/imported/unsplash-server-racks-1600.webp)\n\n### Cloud Migration Strategy for UK Organisations: A Practical Plan\n\nCloud migration is as much an operational change as a technical one. This guide covers how UK organisations can plan it, stay compliant, keep costs under control and move in phases that limit risk."
+    }
+  ]
+}

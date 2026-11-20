@@ -1,0 +1,81 @@
+# Imported from https://www.cyberspark.uk/products/workspace (Craeft).
+{
+  "title": "WorkSpace: Leave, Standups and Git Work in One Place",
+  "seo": {
+    "title": "WorkSpace | Leave Tracker, Standups & Git Work in One Place",
+    "description": "A leave tracker and team operations tool for software teams: annual leave balances, holiday calendars, Google Meet standups and Git work in tickets."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "WorkSpace: Leave, Standups and Git Work in One Place",
+      "lead": "A leave tracker and team operations tool for software teams: annual leave balances, holiday calendars, Google Meet standups and Git work in tickets."
+    },
+    {
+      "blockType": "prose",
+      "body": "WorkSpace brings a software team's day into one view. Annual leave balances and holiday calendars, Google Meet standups on a shared calendar, and GitHub or GitLab branches, pull requests and issues inside work tickets. We built it for our own team first; you can host it yourself.\n\n![WorkSpace leave dashboard with leave balances and requests](/media/imported/workspace-leaves-dashboard-1000.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "WHY WE BUILT IT",
+      "title": "Why We Built WorkSpace",
+      "body": "Our engineers work across the UK and India. Before WorkSpace, a simple question such as \"can we ship this on Friday?\" meant checking a leave spreadsheet, two holiday calendars, a standup document and three GitHub tabs. Each tool was fine on its own; together they cost a little time from everyone, every day, and things still slipped through: a release planned on an Indian public holiday, a pull request waiting for a reviewer who was on annual leave.\n\nWorkSpace puts those pieces in one place. It is not trying to replace your HR system or your whole project management stack. It answers the questions a software team asks every day:\n\n- Who is available this week, in which country, and who is on leave?\n\n- What did we agree in this morning's standup, and who owns each action?\n\n- Where is the work: which branch, which pull request, and is it waiting for review?\n\nIf your team is small, co-located and happy with a spreadsheet, you probably don't need it. It earns its place when a team spans locations, leave policies or Git repositories, and the overhead of keeping everyone in sync starts to show."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "LEAVE TRACKING & HOLIDAY CALENDARS",
+      "title": "Annual Leave Tracker with Country Holiday Calendars",
+      "body": "A staff holiday planner that understands mixed-location teams. Each person has the right entitlement and the right public holidays, and managers see clashes before they approve.\n\n- Annual, sick and casual leave with your own entitlements and approval rules.\n\n- Proration for people who join part-way through the year.\n\n- Public holiday calendars for the UK, India, the US, Germany and Singapore.\n\n- Availability view and clash warnings, so you see who is away before you plan a sprint or a release."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "STANDUPS & SHARED CALENDAR",
+      "title": "Standups and Meetings on a Shared Calendar",
+      "body": "Standups work best when the agenda, the actions and the work they refer to are in the same place. WorkSpace keeps them together.\n\n- Google Calendar and Google Meet sync, so meetings created in either place appear in both.\n\n- Agendas and action items linked to the tickets they are about.\n\n- Filters and recurring series, so each person sees the meetings and work sessions that matter to them.\n\n![WorkSpace calendar](/media/imported/workspace-calander-1600.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "GIT WORK INSIDE TICKETS",
+      "title": "GitHub and GitLab Work Inside Your Tickets",
+      "body": "Developers lose time switching between the ticket, the repository and the pull request. In WorkSpace they can do the common Git actions without leaving the ticket.\n\n- Create a feature branch from a ticket after searching your GitHub or GitLab repositories.\n\n- Open a pull request or merge request, request reviewers and see build checks and approvals.\n\n- Link, assign and close issues connected to the pull request.\n\n![WorkSpace Git workflow](/media/imported/workspace-git-workflow-1216.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "COMMIT SYNC & ACTIVITY",
+      "title": "Commit Sync and Contribution Graphs",
+      "body": "Team leads need to know how work is progressing without asking everyone for status updates. WorkSpace records Git activity automatically.\n\n- Webhooks from GitHub and GitLab turn pushes and pull request changes into work sessions on the calendar.\n\n- A sync button backfills older commits if a webhook was missed.\n\n- Contribution graphs and activity timelines show progress over time, so conversations are about the work rather than who looks busy.\n\n![WorkSpace Git activity heatmap](/media/imported/workspace-git-heatmap-1600.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HOW IT WORKS",
+      "title": "Getting Started in Four Steps",
+      "body": "Most of the set-up is decisions about your own policies, not configuration. We help with each step.\n\n- 01Step 1Set Up Your WorkspaceTeams and Roles\n\n- 02Step 2Add Your Leave PoliciesEntitlements and Holidays\n\n- 03Step 3Connect Git and CalendarIntegrations\n\n- 04Step 4Run Your Team From One ViewDay to Day\n\n### Set Up Your Workspace\n\nCreate your workspace and project boards, invite your team and give each person a role (super admin, admin, lead or developer) so they see what they need.\n\nExpected window: Step 1\n\n- Workspace and project boards created\n\n- Team members invited\n\n- Roles and permissions set"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CHOOSING A LEAVE TRACKER",
+      "title": "What to Look for in a Leave Tracker for a Software Team",
+      "body": "Whichever tool you choose, check these before you commit. They are the things we needed ourselves.\n\n| Question | Why it matters |\n| --- | --- |\n| Does it handle different holiday calendars per person? | A UK and India team has different bank and public holidays. One shared calendar leads to wrong balances and missed clashes. |\n| Does it prorate entitlements? | Joiners and leavers part-way through the year need the right balance without manual sums. |\n| Can managers see clashes before approving? | Approving leave without seeing who else is away is how releases end up short-staffed. |\n| Is it close to where the work happens? | If leave lives in one tool and the sprint in another, people have to remember to check both. |\n| Where is the data held? | Leave records are personal data under the UK GDPR. Self-hosting or a clear hosting location makes that easier to manage. |\n\nIf your team works across the UK and India, our guide to how UK technology companies hire developers in India covers the working-together side too, and our specialised portal at [EOR Services UK](https://www.eor-services.co.uk/) provides dedicated Employer of Record and international payroll administration."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions About WorkSpace",
+      "body": "Straight answers about leave tracking, standups, Git features and hosting."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HIRING IN INDIA",
+      "title": "Employing Your Team in India?",
+      "body": "WorkSpace keeps a UK and India team in step day to day. If you also need to employ engineers in India without opening a company there, our sister service [EOR Services UK](https://www.eor-services.co.uk/) acts as the Employer of Record: Indian employment contracts, INR payroll and statutory compliance, under one UK agreement."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Request a Demo",
+      "title": "See WorkSpace With Your Own Team in Mind",
+      "body": "Book a live demo. Tell us how your team is spread across locations and how you handle leave today, and we'll show you how WorkSpace would fit.\n\n- Leave tracking with UK, India and other holiday calendars\n\n- Google Meet standups and Git work in one place\n\n- Self-hosting available"
+    }
+  ]
+}

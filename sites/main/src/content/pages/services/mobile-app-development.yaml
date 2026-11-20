@@ -1,0 +1,83 @@
+# Imported from https://www.cyberspark.uk/services/mobile-app-development (Craeft).
+{
+  "title": "Mobile App Development Company UK",
+  "seo": {
+    "title": "Mobile App Development Company UK | App Developers",
+    "description": "UK app developers building iOS and Android apps with Flutter, React Native, Swift or Kotlin, plus the backend, store launch and support. You own the code."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Mobile App Development Company UK",
+      "lead": "UK app developers building iOS and Android apps with Flutter, React Native, Swift or Kotlin, plus the backend, store launch and support. You own the code."
+    },
+    {
+      "blockType": "prose",
+      "body": "We're app developers for UK businesses, building iOS and Android apps with Flutter, React Native, or native Swift and Kotlin. One team builds the app, the backend and the admin panel behind it, gets it through App Store and Google Play review, and supports it after launch. You own the code and the store accounts.\n\nAt a Glance\n\n- iOS and Android\n\n- Flutter, React Native, Swift, Kotlin\n\n- App, backend and admin panel\n\n- Store launch and support\n\n- **Outcome 01:** Customer apps\n\n- **Outcome 02:** Staff and field apps\n\n- **Outcome 03:** First versions (MVPs)\n\n- **Outcome 04:** Apps connected to your systems\n\n![Mobile app screens designed by CyberSpark](/media/imported/mobile-app-development-1586.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "WHAT WE BUILD",
+      "title": "Mobile App Development Services",
+      "body": "Customer apps. Ordering, booking, accounts, loyalty, subscriptions and support: apps customers download and keep using, with card, Apple Pay and Google Pay payments through a payment provider.\n\nStaff and field apps. Apps for engineers, drivers, care workers and sales teams, with offline use where the signal drops and data that syncs when the phone reconnects.\n\nFirst versions (MVPs). The smallest version of your idea that real users can try, so you learn what they need before paying for everything else.\n\nApps connected to your systems. Your app and your back office share the same data: CRM, accounting, stock, booking or an existing web platform, through their APIs.\n\nThe backend and admin panel. The app on the phone is often less than half the work. Behind it sits the server that stores users, orders and content, sends notifications and runs integrations, and a web dashboard where your team manages it all. We build all three so they work together.\n\nRescuing an existing app. Taking over an app another developer built: reviewing the code, fixing what's broken, updating it for current iOS and Android versions, and planning what comes next."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CHOOSING THE TECHNOLOGY",
+      "title": "Flutter, React Native or Native?",
+      "body": "We build with all of them, so we recommend what suits your app rather than the one tool we happen to know:\n\n| Approach | What it means | When it fits |\n| --- | --- | --- |\n| Flutter | One codebase for iOS and Android, with its own rendering engine | Most business apps, especially with a custom design that should look the same on both platforms |\n| React Native | One codebase for both platforms, written in JavaScript or TypeScript | Apps that share logic, components or developers with a React website |\n| Native (Swift for iOS, Kotlin for Android) | A separate app for each platform | Heavy processing, deep use of device hardware (camera, Bluetooth, sensors), or the very best performance |\n| One platform first | Launch on iOS or Android, add the other once the idea is proven | Tight budgets where most target users are on one platform |\n\nFor most business apps, a cross-platform build is the more economical choice, because each feature is built and tested once for both stores. Native is worth the extra effort when the app depends on the phone's hardware or needs to feel as fast as possible. We'll explain the trade-offs for your app before you decide."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HOW WE WORK",
+      "title": "How an App Project Runs",
+      "body": "Short stages with working builds, so you can try the app on your own phone long before launch.\n\n### Discover and Scope\n\nWe agree who the users are, the one job the app must do well, and what the first version includes. You get a written scope and a technology recommendation with reasons.\n\n### Design\n\nWe design the main screens and turn them into a clickable prototype, following Apple's and Google's design conventions and accessibility guidance, so you can test the flow before code is written.\n\n### Build in Stages\n\nWe build the app, backend and admin panel in short stages. Test builds reach your phone through Apple TestFlight and Google Play internal testing, so you see real progress.\n\n### Launch and Support\n\nWe prepare the store listings and privacy details, run the testing the stores require, submit for review and launch. Then we stay on for fixes, OS updates and new features."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "STORES, PRIVACY AND OWNERSHIP",
+      "title": "Publishing to the App Store and Google Play",
+      "body": "Publishing is where many first app projects get stuck. What to plan for:\n\n- Developer accounts in your company's name. Register the Apple Developer Program and Google Play Console accounts as your organisation, not as the developer. Organisation accounts need a D-U-N-S number, which can take time to obtain.\n\n- Review and testing. Apple reviews every release. New personal Google Play accounts must run a closed test with at least 12 testers for 14 days before publishing; organisation accounts avoid that requirement.\n\n- Store listings. Screenshots, descriptions, age ratings, and the privacy information both stores ask for (Apple's privacy labels and Google Play's data safety section).\n\n- In-app purchases. Selling digital content or subscriptions inside the app usually has to use Apple's and Google's billing, which take a commission. Physical goods and services can use a normal payment provider."
+    },
+    {
+      "blockType": "prose",
+      "title": "Privacy and Accessibility",
+      "body": "If your app collects personal data, UK GDPR and the Data Protection Act 2018 apply: a clear privacy notice, a lawful basis for each use of data, sensible retention, and security. If it uses tracking or analytics SDKs, consent rules apply too, and Apple requires permission before tracking users across other companies' apps. We design for accessibility from the start (text sizes, contrast, screen readers), because it makes the app better for everyone."
+    },
+    {
+      "blockType": "prose",
+      "title": "You Own the App",
+      "body": "You receive the source code, the designs, and admin access to the backend, hosting and store accounts. If you ever change developers, the app stays yours."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "AFTER LAUNCH",
+      "title": "Keeping Your App Working After Launch",
+      "body": "An app is never quite finished. Apple and Google release new OS versions every year, and Google Play requires apps to target a recent Android version to stay available to new users. After launch, we:\n\n- Monitor crashes and errors, and fix issues quickly.\n\n- Update the app for new iOS and Android versions, and keep libraries and security patches current.\n\n- Keep the backend healthy: hosting, backups and performance as your users grow.\n\n- Add features in planned releases as your users ask for them."
+    },
+    {
+      "blockType": "prose",
+      "title": "What Affects the Cost of an App?",
+      "body": "We don't publish prices, because two \"simple apps\" can be very different pieces of work. What drives the cost: the number of features and user types, whether you need one platform or both, how much backend and admin work sits behind the app, integrations with your systems, the design, and the support you need after launch. After a short discovery, we give you a written scope so you know exactly what's included."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions",
+      "body": "Straight answers about mobile app development: cost, timelines, technology, ownership and support."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE FURTHER",
+      "title": "Related Services",
+      "body": "### Bespoke Software Development Company UK\n\nWe design and build bespoke software for UK businesses — internal systems, customer-facing web platforms, custom CRMs and integrations — around the way you actually work. From modernising a legacy system to building a new platform, you own 100% of the code.\n\n### Web Development Company UK · Websites & Web Apps\n\nWe design and build fast, secure websites and web applications for UK businesses — from company websites to online stores and full web platforms — and support them after launch.\n\n### AI Development & Consultancy Services UK\n\nWe add AI where it saves real time — chatbots that answer from your own documents, automation of repetitive work, and AI features inside your existing apps. We start small, prove it works, then scale it."
+    },
+    {
+      "blockType": "prose",
+      "title": "Have an app idea?",
+      "body": "Tell us who the app is for and what it should do. We'll help you shape a first version that's worth launching."
+    }
+  ]
+}

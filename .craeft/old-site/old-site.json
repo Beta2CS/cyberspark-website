@@ -1,0 +1,41 @@
+{
+  "website": "https://www.cyberspark.uk",
+  "readAt": "2026-11-20T10:30:12.008Z",
+  "colours": {
+    "primary": "#6b55e7",
+    "accent": "#ef4444"
+  },
+  "fonts": {
+    "heading": "Geist",
+    "body": "Geist"
+  },
+  "photo": "https://www.cyberspark.uk/media/_w/workspace-leaves-dashboard-1000.webp",
+  "pages": [
+    {
+      "path": "/",
+      "newPath": "/",
+      "phone": ".craeft/old-site/home-phone.jpg"
+    },
+    {
+      "path": "/about",
+      "newPath": "/about",
+      "desktop": ".craeft/old-site/about-desktop.jpg",
+      "phone": ".craeft/old-site/about-phone.jpg"
+    },
+    {
+      "path": "/products",
+      "newPath": "/products",
+      "desktop": ".craeft/old-site/products-desktop.jpg",
+      "phone": ".craeft/old-site/products-phone.jpg"
+    },
+    {
+      "path": "/services",
+      "newPath": "/services",
+      "desktop": ".craeft/old-site/services-desktop.jpg",
+      "phone": ".craeft/old-site/services-phone.jpg"
+    }
+  ],
+  "notes": [
+    "/ (desktop): couldn't be photographed (Navigation timeout of 25000 ms exceeded)."
+  ]
+}

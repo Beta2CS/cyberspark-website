@@ -1,0 +1,69 @@
+# Imported from https://www.cyberspark.uk/products/ai-visibility-check (Craeft).
+{
+  "title": "Free AI Visibility Checker for ChatGPT, Gemini and Google",
+  "seo": {
+    "title": "Free AI Visibility Checker for ChatGPT & Google | CyberSpark",
+    "description": "Free AI visibility checker. See in about 60 seconds whether ChatGPT, Gemini and Google can find and recommend your business, with evidence and a fix list."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Free AI Visibility Checker for ChatGPT, Gemini and Google",
+      "lead": "Free AI visibility checker. See in about 60 seconds whether ChatGPT, Gemini and Google can find and recommend your business, with evidence and a fix list."
+    },
+    {
+      "blockType": "prose",
+      "body": "When people ask ChatGPT or Gemini for a recommendation, does your business get named? AI Visibility Check scans your website and business presence in about 60 seconds, shows the evidence behind every finding, and gives you a prioritised list of what to fix. No account, no email.\n\nAt a glance\n\n- **Live Scan:** 60s\n\n- **Automated Checks:** 21\n\n- **AI Assistants Probed:** 6\n\n![AI Visibility Check example report with a score out of 100](/media/imported/ai-visibility-check-1536.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "AI Visibility Check by CyberSpark",
+      "title": "What is AI Visibility Check?",
+      "body": "AI Visibility Check is a free online tool built by CyberSpark that scans your website and business presence in real time. It checks whether AI assistants like ChatGPT, Gemini, and Claude can find, understand, and recommend your business — and shows you exactly where the gaps are.\n\nEnter your URL, get a score out of 100, and see a prioritised list of what to fix. No account needed. No email required. Results in about 60 seconds.\n\n[Try AI Visibility Check Free →](https://aivisibilitycheck.io/)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Why AI Visibility Matters",
+      "title": "Why AI Visibility Matters Now",
+      "body": "More people now ask an AI assistant instead of scrolling through search results: \"who's a good accountant near me?\", \"which CRM suits a small team?\", \"best physio in Bristol?\". The assistant gives a short answer and names a handful of businesses. If yours isn't one of them, you don't get a second chance on page two, because there is no page two.\n\nAI assistants build those answers from what they can read and trust about you on the web: your own website, your Google Business Profile, directories, reviews and other sites that mention you. That is why AI visibility (sometimes called LLM visibility, or the goal of generative engine optimisation, GEO) depends on things you can check and fix:\n\n- Access. Can AI crawlers such as OAI-SearchBot, PerplexityBot and Googlebot actually reach your pages, or does your robots.txt or firewall block them?\n\n- Understanding. Does your site say clearly, in text and structured data, who you are, what you do and where you work?\n\n- Trust. Do other sources agree with what your site says: the same name, address and phone number, and reviews that match your services?\n\n- Answers. Does your content answer the questions customers actually ask, in plain sentences an assistant can quote?\n\n### Who the checker is for\n\n- Local businesses that rely on \"near me\" searches and recommendations.\n\n- Small and mid-sized companies that want to know whether ChatGPT or Gemini mention them or a competitor.\n\n- Marketing teams and agencies that need an evidence-based starting point before they spend on SEO or content.\n\nA score is only useful if you can act on it, so every finding comes with the evidence that was collected and a plain-English fix."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HOW IT WORKS",
+      "title": "How to Use AI Visibility Check in Five Simple Steps",
+      "body": "You do not need to spend hours learning marketing. We do the heavy lifting while you focus on your work.\n\n- 01About 60 seconds (free) · Several minutes (deep audit)Free Visibility CheckSee Where You Stand\n\n- 02InstantRead Your Score & FindingsUnderstand the Results\n\n- 03Week 1Follow the Action PlanFix What Matters First\n\n- 04Included in deep auditCompare Against CompetitorsSee Who AI Recommends\n\n- 05OngoingTrack Your ProgressRe-scan After Fixes\n\n### Free Visibility Check\n\nGo to aivisibilitycheck.io and enter your website URL. The essential report is free — no email or card needed. A full website deep audit is also available if you need a more thorough picture.\n\nExpected window: About 60 seconds (free) · Several minutes (deep audit)\n\n- Live website accessibility check\n\n- Real AI recommendation & competitor test\n\n- Local search and Google profile health check"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "What the Audit Actually Checks",
+      "title": "What the Audit Actually Checks",
+      "body": "The audit runs 21 automated checks across your website and business presence. Here's what it looks at:\n\n- robots.txt — can AI crawlers access your site at all?\n\n- Sitemap — are your pages discoverable?\n\n- Structured data — does your site clearly declare who you are, what you do, and where you're based?\n\n- Mobile speed — does your site load fast enough to rank well?\n\n- Business consistency — do your name, address, and phone number match across directories?\n\n- AI recommendations — are ChatGPT and Gemini naming your competitors when people ask about your services?\n\nEvery result is backed by actual evidence collected during the scan. If something couldn't be checked — because a service was unavailable or the data didn't exist — it's marked as Unmeasured, not failed.\n\n[Read our full audit methodology →](https://aivisibilitycheck.io/methodology/)\n\n![AI Visibility Check live prob](/media/imported/ai-audit-live-probe-1-1022.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Competitor Visibility Probe",
+      "title": "See How Often Competitors Get Recommended Instead of You",
+      "body": "The competitor probe asks ChatGPT, Gemini, Claude, and three other AI assistants category questions — things like \"who's the best accountant in Manchester?\" — and records how many times each business gets named.\n\nIt is common to find a competitor named again and again while your business barely appears. That usually isn't random: it comes down to how complete, consistent and well-evidenced each business's information is across the web.\n\nThe good news is that most of the causes are fixable. Filling in your Google Business Profile, making your name, address and phone number match everywhere, adding structured data and answering common questions on your own site all give AI assistants more to work with. How quickly the answers change depends on how often each assistant refreshes what it knows, so re-run the check after you make changes rather than expecting an overnight shift.\n\n### Related Reading\n\n- [AI Search vs Google Ranking — What's Changed](https://aivisibilitycheck.io/blog/ai-search-vs-google-ranking/)\n\n- [How to Get Your Business on Google](https://aivisibilitycheck.io/blog/how-to-get-your-business-on-google/)\n\n- [Why Isn't My Business Showing Up on Google?](https://aivisibilitycheck.io/blog/why-isnt-my-business-showing-up-on-google/)\n\n![AI Visibility Check competitor mentions](/media/imported/ai-audit-competitor-mentions-1-1024.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Your Score and Action Plan",
+      "title": "Your Score, Your Action Plan",
+      "body": "After the audit, you get a score out of 100 and a prioritised list of fixes. The dashboard shows:\n\n- Overall score with a grade (A through F)\n\n- Breakdown by category — Access, Understanding, Speed, and Trust\n\n- A projection curve — showing where your score could go after each fix\n\nStart with the Critical and High items — those are the ones that actually hold your visibility back. The lower-priority ones can wait.\n\n### What to do after the check\n\n- Fix the Critical and High items first. They are usually access problems (blocked crawlers, missing sitemap) or identity problems (no structured data, inconsistent business details).\n\n- Complete your Google Business Profile and make sure your details match on the directories that matter in your sector.\n\n- Add clear answers to your own site: what you do, where, for whom, and the questions customers ask before they buy.\n\n- Re-run the check and compare the evidence.\n\nIf you'd rather hand the work over, our AI search visibility service works through the action plan with you, alongside local SEO where Google Maps matters. Or [get in touch](/contact) with questions.\n\n![AI Visibility Check dashboard](/media/imported/ai-audit-dashboard-1600.webp)\n\n### How AI Visibility Check Works Under the Hood\n\nA transparent, evidence-based audit engine — not a black box.\n\nLive Website Crawl\n\nAI Visibility Check fetches your pages the same way Google and AI crawlers do — checking robots.txt, sitemaps, server responses, and redirect chains in real time.\n\nStructured Data Analysis\n\nThe tool parses your JSON-LD, Open Graph tags, and meta descriptions to see if search engines and AI assistants can clearly identify your business name, services, and location.\n\nAI Engine Probing\n\nAI Visibility Check sends natural-language queries to ChatGPT, Gemini, Claude, Grok, DeepSeek, and Perplexity — and records whether they mention your business or your competitors.\n\nEvidence Collection & Scoring\n\nEvery finding is stored as verifiable evidence. The score starts at 100 and deducts points based on severity. Nothing is guessed — if a check can't run, it's marked Unmeasured, not failed.\n\n### What the Report Gives You\n\nClear, actionable output you can act on immediately.\n\nNeed to align this ai visibility check by cyberspark with your roadmap?\n\nWe can scope a phased delivery plan tailored to your team, systems, and time constraints."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Common Questions",
+      "title": "Frequently Asked Questions About AI Visibility Check by CyberSpark",
+      "body": "No spin, no sales talk. Here's what you need to know."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Try It Live",
+      "title": "See What AI and Google Think of Your Business Right Now",
+      "body": "Try AI Visibility Check by CyberSpark on your website. The free essential report takes about 60 seconds — no email needed. A full website deep audit is also available for a more thorough breakdown.\n\n- Free essential report — no email or card needed\n\n- Full website deep audit also available\n\n- Live results from your actual website"
+    }
+  ]
+}

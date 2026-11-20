@@ -1,0 +1,41 @@
+# Imported from https://www.cyberspark.uk/authors (Craeft).
+{
+  "title": "The People Behind Our Writing",
+  "seo": {
+    "title": "Our Authors | Engineers & Writers at CyberSpark",
+    "description": "Meet the engineers and writers behind the CyberSpark blog: who they are, what they work on, and the practical guides they have written from real delivery work."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "The People Behind Our Writing",
+      "lead": "Meet the engineers and writers behind the CyberSpark blog: who they are, what they work on, and the practical guides they have written from real delivery work."
+    },
+    {
+      "blockType": "prose",
+      "body": "Engineers and writers from our London and India teams, sharing what they have learned from real delivery work.\n\n![Azhar Ali Dar](/media/imported/azhar-ali-dar-800.webp)"
+    },
+    {
+      "blockType": "prose",
+      "title": "Azhar Ali Dar",
+      "body": "Software Developer\n\n7 articles\n\n![Muntazir](/media/imported/muntazir-400.webp)"
+    },
+    {
+      "blockType": "prose",
+      "title": "Muntazir",
+      "body": "Software Engineer\n\n4 articles\n\n![Sameer Bhat](/media/imported/sameer-bhat-400.webp)"
+    },
+    {
+      "blockType": "prose",
+      "title": "Sameer Bhat",
+      "body": "Founder\n\n2 articles\n\n![Sarvar Hussain](/media/imported/avatar-placeholder.svg)"
+    },
+    {
+      "blockType": "prose",
+      "title": "Sarvar Hussain",
+      "body": "Content Writer"
+    }
+  ]
+}
