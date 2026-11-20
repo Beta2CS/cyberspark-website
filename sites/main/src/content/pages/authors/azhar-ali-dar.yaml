@@ -1,0 +1,31 @@
+# Imported from https://www.cyberspark.uk/authors/azhar-ali-dar (Craeft).
+{
+  "title": "Azhar Ali Dar",
+  "seo": {
+    "title": "Azhar Ali Dar, Software Developer | CyberSpark",
+    "description": "Articles by Azhar Ali Dar, Software Developer at CyberSpark: User Acceptance Testing (UAT): A Buyer's Guide for Bespoke Software; Software Requirements Specific"
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Azhar Ali Dar",
+      "lead": "Articles by Azhar Ali Dar, Software Developer at CyberSpark: User Acceptance Testing (UAT): A Buyer's Guide for Bespoke Software; Software Requirements Specific"
+    },
+    {
+      "blockType": "prose",
+      "body": "Software Developer at CyberSpark\n\n![Azhar Ali Dar](/media/imported/azhar-ali-dar-800.webp)"
+    },
+    {
+      "blockType": "prose",
+      "title": "Azhar Ali Dar",
+      "body": "Software Developer"
+    },
+    {
+      "blockType": "prose",
+      "title": "Latest Articles",
+      "body": "Fresh writing focused on real delivery challenges and practical implementation choices.\n\n![User Acceptance Testing (UAT): A Buyer's Guide for Bespoke Software](/media/imported/unsplash-user-testing-session-1400.webp)\n\n### User Acceptance Testing (UAT): A Buyer's Guide for Bespoke Software\n\nUser acceptance testing (UAT) is where your business, not the developer, checks that new software does the job before you accept it. Here is how to plan it, write test cases, handle defects and sign off with confidence.\n\n![Software Requirements Specification: How to Write One for a Bespoke Project](/media/imported/unsplash-requirements-planning-1200.webp)\n\n### Software Requirements Specification: How to Write One for a Bespoke Project\n\nA software requirements specification (SRS) says what the software must do and how well, in terms a supplier can quote against and you can test. Here is what goes in one, a template you can copy, and the UK requirements buyers most often forget.\n\n![Fixed Price vs Time and Materials: Which Contract Suits Your Software Project?](/media/imported/unsplash-contract-review-1200.webp)\n\n### Fixed Price vs Time and Materials: Which Contract Suits Your Software Project?\n\nFixed price suits software work with a clear, stable scope. Time and materials suits work where the scope will change. Many projects use both: fix the price of a short discovery or first release, then move to time and materials.\n\n![App Development Cost in the UK: What Drives the Price](/media/imported/unsplash-code-lines-screen-1600.webp)\n\n### App Development Cost in the UK: What Drives the Price\n\nThe cost of building an app in the UK depends on its features, whether it runs on iOS, Android or both, and what sits behind it. A focused first version costs far less than a full product. Scope the one job the app does, then budget in stages.\n\n![Tool Sprawl in Software Teams: How to Cut Context Switching](/media/imported/workspace-by-cyberspark-1376.webp)\n\n### Tool Sprawl in Software Teams: How to Cut Context Switching\n\nTickets in one tool, code in another, standups in a calendar and leave in a spreadsheet. Here is how tool sprawl slows software teams, the fixes any team can make, and why we built WorkSpace for our own.\n\n![How to Hire Software Developers in India Without a Local Entity](/media/imported/unsplash-team-laptops-1600.webp)\n\n### How to Hire Software Developers in India Without a Local Entity\n\nA practical guide for UK technology companies: which hiring model fits, how to find and assess engineers in India, how to work across time zones, and the IP and data points to settle first.\n\n![Bespoke Software Development in the UK: A Practical Buyer's Guide](/media/imported/unsplash-colleagues-whiteboard-1600.webp)\n\n### Bespoke Software Development in the UK: A Practical Buyer's Guide\n\nWhat bespoke software is, when it beats an off-the-shelf product, what a project actually involves, and the questions to ask before you choose a bespoke software developer."
+    }
+  ]
+}

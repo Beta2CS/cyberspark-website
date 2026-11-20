@@ -1,0 +1,56 @@
+# Imported from https://www.cyberspark.uk/products (Craeft).
+{
+  "title": "Products",
+  "seo": {
+    "title": "Our Products: SparkTalent, WorkSpace & AI Visibility Check",
+    "description": "CyberSpark's own software: SparkTalent for candidate assessments, WorkSpace for software teams, FileMyLtd for company accounts and a free AI Visibility Check."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Our Products",
+      "lead": "CyberSpark's own software: SparkTalent for candidate assessments, WorkSpace for software teams, FileMyLtd for company accounts and a free AI Visibility Check."
+    },
+    {
+      "blockType": "prose",
+      "body": "Four products we built for problems in our own work, hiring engineers, running a team across two countries, being found in AI search and filing our own company accounts, now available to other companies."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CANDIDATE ASSESSMENTS & PROCTORING",
+      "title": "SparkTalent by CyberSpark",
+      "body": "A candidate assessment platform with AI proctoring. Assess applicants for technical and non-technical roles on real tasks before you book an interview.\n\n- 5 Versatile Assessment Formats: MCQs, written/essay questions, one-way video interviews, Git coding tasks, and QA testing on live apps.\n\n- Built-in AI Autoproctoring: Face tracking, voice detection, tab-switch detection and screen monitoring flag suspicious behaviour for your team to review.\n\n- Multi-Stage Pipelines & Rubrics: Run candidates through staged pipelines and give hiring panels consistent scorecards to compare them.\n\n[Explore SparkTalent →](/products/sparktalent)\n\n![SparkTalent by CyberSpark - Assessment & Proctoring Hub](/media/imported/sparktalent-1376.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "TEAM OPERATIONS & LEAVE MANAGEMENT",
+      "title": "WorkSpace by CyberSpark",
+      "body": "One place for a software team's day: GitHub and GitLab work, code reviews, standups and leave, instead of five separate tools.\n\n- In-App Git Operations: Search repositories, create feature branches, submit PRs, and assign reviewers directly inside task cards.\n\n- Automated Commit Sync & Heatmaps: Automatically convert push events and line deltas into interactive work session calendars.\n\n- Team Availability & Global Leave: Built-in leave management with regional holiday calendars and team capacity heatmaps across countries.\n\n[Explore WorkSpace →](/products/workspace)\n\n![Workspace by Cyberspark](/media/imported/workspace-by-cyberspark-1376.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "AI SEARCH & LOCAL VISIBILITY",
+      "title": "AI Visibility Check by CyberSpark",
+      "body": "Find out how your business shows up in Google and in AI answers such as ChatGPT, Gemini and Perplexity, and what to fix first.\n\n- Generative Engine Optimisation (GEO): Check whether AI assistants mention and cite your business, and why they might not.\n\n- Local Search Visibility: Spot the problems holding back your Google Business Profile and local search results.\n\n- Competitor AI Visibility Probes: See which competitors AI assistants recommend instead of you, and what they do differently.\n\n[Explore AI Visibility Check →](/products/ai-visibility-check)\n\n![AI Visibility Check by CyberSpark](/media/imported/ai-visibility-check-1536.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "COMPANY ACCOUNTS & CT600 FILING",
+      "title": "FileMyLtd by CyberSpark",
+      "body": "Software for UK directors to file their own company's year-end filings, checked in plain English before the director presses submit. Now in early access.\n\n- Dormant & Micro-Entity Accounts: Prepare and file dormant or micro-entity accounts with Companies House, starting from the register and last year's figures.\n\n- CT600 Company Tax Return: Work out Corporation Tax step by step, including marginal relief, and file the CT600 with HMRC.\n\n- Plain-English Checks & Reminders: Balance sheet, period and date checks before you approve, and reminders before every accounts and tax deadline.\n\n[Explore FileMyLtd →](/products/filemyltd)\n\n![FileMyLtd by CyberSpark: file your company accounts yourself](/media/imported/filemyltd-1440.webp)\n\nWHICH PRODUCT FITS?"
+    },
+    {
+      "blockType": "prose",
+      "title": "Which Product Fits Your Problem?",
+      "body": "We didn't set out to build products. Each one started as a problem in our own work that existing tools didn't solve well, so we built something that did. Here is how to tell which one is for you:\n\n| If your problem is… | Try | What you get |\n| --- | --- | --- |\n| CVs and interviews don't show how candidates actually work | SparkTalent | Assessments on real tasks: coding in Git repositories, QA tests, written answers and video interviews, with AI proctoring |\n| Your team's work is scattered across Git, calendars and leave spreadsheets | WorkSpace | Git work inside tickets, standups on a shared calendar, and leave tracking for UK and Indian teams, which you can host yourself |\n| You don't know how Google and AI assistants see your business | AI Visibility Check | A free check of your visibility in Google and AI answers such as ChatGPT and Gemini, with the fixes that matter most |\n| You file a dormant or micro-entity company's accounts and CT600 yourself | FileMyLtd | Dormant and micro-entity accounts for Companies House and the CT600 for HMRC, checked in plain English before you submit |\n\n### How the products are offered\n\n- AI Visibility Check is free to run. If you want help acting on the results, our [SEO and AI search](/services/seo-and-ai-search) team can do the work.\n\n- FileMyLtd is self-serve with a low yearly plan per company. Sign up on [filemyltd.co.uk](https://filemyltd.co.uk/).\n\n- SparkTalent and WorkSpace are available on enquiry. We show you how they work on your own use case first, then agree the set-up that suits you.\n\n- The products and our services work together. When UK companies [hire developers in India](/services/hire-developers-in-india) through us, candidates are assessed with SparkTalent, and teams can run their day in WorkSpace."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "GET STARTED",
+      "title": "Not Sure Which Product Fits Your Needs?",
+      "body": "Tell us what you are trying to solve and we will show you the product that fits, or tell you if none of them does.\n\n- Shown on your own use case\n\n- With the people who built the product\n\n- No commitment required"
+    }
+  ]
+}

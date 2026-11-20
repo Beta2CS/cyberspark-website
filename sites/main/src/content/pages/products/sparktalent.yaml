@@ -1,0 +1,63 @@
+# Imported from https://www.cyberspark.uk/products/sparktalent (Craeft).
+{
+  "title": "SparkTalent: Online Assessments with AI Proctoring",
+  "seo": {
+    "title": "SparkTalent | Online Assessment Platform with AI Proctoring",
+    "description": "Online assessment platform with AI proctoring: MCQs, written tasks, video interviews, Git coding tasks and QA tests for any role, with evidence to review."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "SparkTalent: Online Assessments with AI Proctoring",
+      "lead": "Online assessment platform with AI proctoring: MCQs, written tasks, video interviews, Git coding tasks and QA tests for any role, with evidence to review."
+    },
+    {
+      "blockType": "prose",
+      "body": "Hire on real work, not on how a CV reads. SparkTalent lets you assess any candidate, from developers to designers to operations managers, with MCQs, written tasks, one-way video interviews, Git coding tasks and QA tests, with AI proctoring you can switch on per stage.\n\nWhat You Get\n\n- 5 assessment types: MCQ, Essay, Video Interview, Git Coding, and QA Testing\n\n- Multi-stage pipelines, so candidates are screened on real work before any interview\n\n- AI autoproctoring with face tracking, tab monitoring, and voice detection\n\n- Works for any role — tech, non-tech, leadership, operations\n\n- **Outcome 01:** Less time spent reading CVs and running first-round screens\n\n- **Outcome 02:** Shortlists based on real work, not on how a CV reads\n\n- **Outcome 03:** Proctoring flags that reviewers can check for themselves\n\n- **Outcome 04:** Seamless onboarding with CyberSpark EOR India\n\n![SparkTalent admin proctoring hub](/media/imported/sparktalent-admin-proctoring-hub-991.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HOW SPARKTALENT WORKS",
+      "title": "How SparkTalent Works",
+      "body": "SparkTalent replaces your scattered hiring process with a single platform. Here is how your team uses it, from job posting to onboarding.\n\n### 1. Post a Role\n\nCreate a career listing directly in the SparkTalent admin panel. Define the job title, description, location, and application questions. Your listing is ready in minutes — no separate job board needed.\n\n### 2. Build Your Assessment\n\nAttach a multi-stage assessment to your job posting. Each stage can contain different question categories — mix MCQs for quick knowledge screening, written essays for analytical thinking, one-way video interviews for communication and cultural fit, Git coding tasks for engineers, and QA testing on deployed apps for testers. Set a timer for each question and configure [AI proctoring](/products/sparktalent#ai-proctoring) per stage.\n\n### 3. Invite Candidates\n\nSend branded email invitations with a single click. Need to migrate from another ATS? Import your entire candidate pipeline via JSON — names, emails, resumes, and application data transfer over cleanly. Send reminder emails to candidates who have not started yet.\n\n### 4. Candidates Complete the Assessment\n\nEach candidate gets a guided tutorial walkthrough before starting. The platform handles permissions (camera, microphone, screen share) step-by-step. A countdown timer keeps every question fair, and a built-in live chat widget connects candidates to your support team if they need help.\n\n### 5. Review and Score\n\nMultiple reviewers on your team can independently score each candidate. Every score includes the reviewer's name and written reasoning, so your hiring committee has full context. View [proctoring evidence](/products/sparktalent#ai-proctoring), video playbacks, code commits, and written responses — all in one admin dashboard.\n\n### 6. Shortlist and Onboard\n\nSend customisable welcome emails to shortlisted candidates. If you are hiring in India, onboard pre-vetted engineers directly through [Employer of Record (EOR) service](/services/hire-developers-in-india/eor) — no local entity required.\n\n5 ASSESSMENT TYPES FOR EVERY ROLE\n\nMultiple Choice (MCQ) Auto-graded knowledge screening with rich-formatted options. Best for rapid shortlisting across all roles.\n\nWritten / Essay Response Long-form answers scored against a rubric, so every reviewer judges analysts and managers on the same criteria.\n\nOne-Way Video Interview Assess communication skills via timed, auto-saved webcam recordings that your team can review at their own pace.\n\nLive Coding Environments Evaluate engineers using real-world Git workflows, custom coding tasks, and automated QA testing directly in the browser.\n\nFile & Portfolio Uploads Perfect for designers and architects. Candidates securely submit presentations, case studies, or architecture diagrams for review.\n\n### Git Repository Task\n\nBest for software engineers and full-stack developers. Candidates clone a real Git repository directly into VS Code, write actual code, and push their commits. Your reviewers inspect the real codebase — not a synthetic puzzle on a whiteboard. Integrates with GitLab for automatic fork creation per candidate. Pre-assessed engineers can transition directly to client projects via [Bespoke Software Development](/services/bespoke-software-development).\n\n![SparkTalent Live Git Assessment Engine](/media/imported/sparktalent-live-git-assessment-engine-1600.webp)\n\n### Deployed URL / QA Testing\n\nBest for QA engineers, testers, and frontend developers. Candidates open a live staging application in their browser, explore it, find bugs, and document their findings in a rich-text editor. This tests real-world debugging skills on a real product — not hypothetical scenarios.\n\n![SparkTalent Deployed URL Testing](/media/imported/chatgpt-image-aug-27-2026-12-04-01-pm-1600.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "INTEGRITY & SECURITY",
+      "title": "AI Autoproctoring Built In",
+      "body": "Structured around your menu architecture, each service area has a dedicated page and clear delivery focus. Explore by capability, then dive deeper into the service that matches your outcome.\n\n### Visual & Identity Verification\n\nMediaPipe AI monitors the candidate's webcam throughout the assessment while SparkTalent takes periodic screenshots of their display. Every visual violation is logged with a timestamp and confidence score.\n\n- Continuous Gaze Tracking\n\n- Interval-Based Screen Capture\n\n- Absence Detection"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "PROCTORING YOU CAN CHECK",
+      "title": "Online Proctoring That Leaves the Decision to People",
+      "body": "Proctoring software is only useful if reviewers trust what it shows. SparkTalent records evidence, not verdicts: a snapshot when a second person appears in frame, a timestamp when the candidate leaves the tab, an audio flag when someone else is talking. Reviewers see each flag in context on a single timeline and decide what it means.\n\nThat matters because flags have innocent explanations: a family member walking past, a notification pulling focus, a slow connection. A good process treats a flag as a question to look into, not an automatic fail.\n\n| Setting | When to switch it on |\n| --- | --- |\n| Face and presence tracking | Any stage where identity or independent work matters |\n| Tab and fullscreen monitoring | Knowledge tests and timed tasks |\n| Screen capture at intervals | Coding and QA tasks, where you want to see the working |\n| Voice monitoring | Video interviews and written tasks done from home |\n| Multi-monitor detection | High-stakes final stages |\n\nEach setting is configured per stage, so a quick MCQ screen can stay light while a final technical task has full proctoring.\n\n### Candidate data and the UK GDPR\n\nAssessments collect personal data, including video and audio. Tell candidates before they start what is recorded and why, keep recordings only as long as your hiring process needs them, and limit who on your team can view them. SparkTalent's role-based access means interviewers see only the candidates and evidence they are assigned to.\n\n### Pre-employment assessment for any role\n\nSparkTalent isn't only a coding assessment platform. Operations, analyst, marketing and leadership roles can be assessed with MCQs, written tasks and one-way video interviews; designers and architects can upload portfolios and case studies. Use the Git and QA tasks where the role is technical."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "BUILT FOR HIRING TEAMS",
+      "title": "Hiring Operations Platform",
+      "body": "SparkTalent is not just an assessment tool — it is a complete hiring operations platform. Here is what your HR team and hiring managers get out of the box.\n\n- Seamless Operations\n\n- Consistent Scoring\n\n- Enterprise Control\n\nDATA MIGRATION\n\n### Bulk Import & Export\n\nMigrating from another ATS? Import your entire candidate pipeline via JSON upload. Names, emails, resumes, and metadata transfer cleanly. Export results whenever needed.\n\n- 1-Click JSON Upload\n\n- Compliance Ready Export\n\nCOLLABORATION\n\n### Multi-Reviewer Scoring\n\nMultiple team members can independently score each candidate's response. Scores auto-average to a final number, so no single reviewer's view decides the outcome.\n\n- Independent Scoring\n\n- Auto-Averaged Results\n\nWORKFLOW\n\n### Email Automation\n\nSend branded assessment invitation emails with one click. Nudge unstarted candidates with automated reminders and send customisable welcome emails directly from the admin panel.\n\n- 1-Click Invites\n\n- Automated Reminders\n\nSECURITY\n\n### Role-Based Access Control\n\nSuper admins, admins, and interviewers see only what they need. Field-level permissions prevent accidental edits to scores, responses, and candidate data.\n\n- Granular Permissions\n\n- Data Protection\n\nSUPPORT\n\n### Stage Reset\n\nIf a candidate experiences technical issues — a power cut, browser crash, or connectivity drop — admins can cleanly reset a specific assessment stage for retry.\n\n- Isolated Retries\n\n- Progress Protection\n\nEXPERIENCE\n\n### Candidate Experience & Support\n\nReduce support load with a comprehensive public assessment guide. For everything else, a built-in live chat widget lets candidates ask questions and get real-time or queued responses during their test.\n\n- Live Candidate Chat\n\n- Preserved Chat History"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Frequently Asked Questions",
+      "title": "Questions We're Often Asked",
+      "body": "Practical answers on timelines, delivery models, collaboration, and support so you can move forward with confidence."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CONNECT SPARKTALENT TO YOUR WORKFLOW",
+      "title": "CyberSpark Ecosystem",
+      "body": "### Employer of Record (India)\n\nUse SparkTalent to pre-screen candidates remotely, then seamlessly onboard them. We handle payroll, compliance, and local employment law so you get a compliant remote team.\n\n### WorkSpace\n\nSparkTalent integrates naturally with the rest of the CyberSpark product suite. Use WorkSpace to smoothly transition candidates into team collaboration and project management."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "LIVE PERSONALIZED DEMO",
+      "title": "Want To See How We Can Streamline Your Hiring?",
+      "body": "Share your hiring priorities and constraints, and we will walk you through a personalized demo showing exactly how SparkTalent solves your evaluation challenges.\n\n- Personalized to your hiring goals\n\n- Live demonstration of AI proctoring\n\n- Actionable rollout plan included"
+    }
+  ]
+}

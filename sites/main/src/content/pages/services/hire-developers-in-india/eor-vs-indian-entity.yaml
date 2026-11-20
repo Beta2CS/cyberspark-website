@@ -1,0 +1,67 @@
+# Imported from https://www.cyberspark.uk/services/hire-developers-in-india/eor-vs-indian-entity (Craeft).
+{
+  "title": "EOR vs Setting Up a Company in India — A Guide for UK Tech Firms",
+  "seo": {
+    "title": "EOR vs Setting Up a Company in India: A Guide for UK Firms",
+    "description": "EOR vs setting up a company in India for UK firms: timelines, the resident director rule, ongoing compliance, exit steps, and when an entity makes sense."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "EOR vs Setting Up a Company in India — A Guide for UK Tech Firms",
+      "lead": "EOR vs setting up a company in India for UK firms: timelines, the resident director rule, ongoing compliance, exit steps, and when an entity makes sense."
+    },
+    {
+      "blockType": "prose",
+      "body": "If you want to hire software engineers in India, you have two structural options: employ them through an Employer of Record, or incorporate an Indian legal entity and employ them directly. This guide explains what each route actually involves, realistic timelines, and where the economic crossover lies.\n\nAt a Glance\n\n- EOR: first hire in 5–10 days\n\n- Entity: 3–6 months to incorporate\n\n- Entity needs a resident director\n\n- Crossover around 10–15 engineers\n\n- **Outcome 01:** One UK-law agreement, one GBP invoice\n\n- **Outcome 02:** CyberSpark carries the compliance\n\n- **Outcome 03:** Bridge from EOR to entity, if you scale\n\n- **Outcome 04:** Hybrid EOR plus entity is workable"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "The Core Decision",
+      "title": "Who Carries the Regulatory and Operational Burden?",
+      "body": "Both routes result in the same outcome: legally compliant software engineers in India building your product. The distinction lies entirely in where the compliance and administrative burden sits.\n\nEOR route (CyberSpark)\n\n### CyberSpark Carries the India Legal Burden\n\nYou hold a single UK-law services agreement with CyberSpark's UK company. You direct your developers day-to-day. You settle a single monthly GBP invoice. First engineer starts in 5–10 working days with zero Indian entity exposure. (Calculate loaded costs on the [UK Employer Cost Calculator ↗](https://www.eor-services.co.uk/employer-cost-calculator)).\n\nEntity route (own subsidiary)\n\n### You Carry 100% of Indian Legal Compliance\n\nYou incorporate a Private Limited company in India, recruit local resident directors, secure RBI clearances, open INR bank accounts, hire local auditors, and maintain monthly filings across federal and state tax bodies.\n\n### Setting Up a Company in India — What It Involves\n\nUK companies often underestimate the timeline and operational friction of Indian corporate incorporation. For software engineering operations, a Private Limited Company (Pvt. Ltd.) is the standard legal vehicle.\n\nPvt. Ltd. setup process — realistic timeline (3–6 months before first hire):\n\n| Sequential step | Approx. duration | Governing authority / framework |\n| --- | --- | --- |\n| Digital Signature Certificates (DSC) & DIN for directors | 1–2 weeks | Ministry of Corporate Affairs (MCA) |\n| Name reservation & SPICe+ incorporation filing | 1–3 weeks | MCA Portal ↗ |\n| Certificate of Incorporation issued | 3–5 weeks | Registrar of Companies (RoC) |\n| Corporate PAN & TAN registration | 1–2 weeks post-inc | Income Tax Department |\n| Goods & Services Tax (GST) registration | 2–3 weeks | GST Network (GSTN) |\n| EPFO & ESIC employer registrations | 2–3 weeks | EPFO & ESIC ↗ |\n| Inward Foreign Direct Investment (FDI) reporting (Form FC-GPR) | 2–4 weeks | Reserve Bank of India (RBI FIRMS) ↗ |\n| Commercial bank account opening & capital inflow | 2–6 weeks | Commercial Authorized Dealer Bank in India |\n| Total realistic setup timeline | 3–6 months | All steps mandatory before making a single legal job offer |"
+    },
+    {
+      "blockType": "prose",
+      "title": "Ongoing Annual Entity Compliance & Governance",
+      "body": "An Indian Private Limited subsidiary requires continuous statutory filings, accounting overhead, and local governance that your UK management must oversee.\n\n| Statutory obligation | Mandated frequency | Responsible party / portal |\n| --- | --- | --- |\n| Statutory audit | Annual | Independent Indian Chartered Accountant (CA) |\n| MCA annual return (Forms AOC-4, MGT-7) | Annual | Company Secretary via MCA Portal ↗ |\n| RBI annual return on Foreign Liabilities & Assets (FLA) | Annual | CA via RBI Portal ↗ |\n| Corporate Income Tax Return (ITR-6) | Annual | Chartered Accountant |\n| GST Returns (GSTR-1, GSTR-3B) | Monthly | CA / India finance team |\n| Board meetings & recorded minutes | Min 4/year | Directors + Company Secretary (Companies Act, 2013) |\n| TDS remittance & quarterly Form 24Q | Monthly + quarterly | Payroll specialist / CA |\n| PF & ESI monthly filings | Monthly | HR / payroll via EPFO & ESIC portals |\n\nFixed cost & director requirement\n\nRunning a compliant Indian subsidiary requires an ongoing Indian Chartered Accountant, Company Secretary support for statutory filings, and at least one India-resident director holding a registered DIN. These are fixed annual costs you carry before paying any engineering salaries or office rent."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "GROWTH BLUEPRINT",
+      "title": "EOR as a Strategic Bridge to Entity Setup",
+      "body": "How UK technology companies validate India engineering without timeline delays, transitioning seamlessly to a subsidiary when scale justifies it:\n\n- 01Months 1–6ValidateHire Day 1 via EOR\n\n- 02Months 6–12ScaleExpand Engineering Pods\n\n- 03Months 12–18IncorporateParallel Entity Formation\n\n- 04Month 18+TransitionFrictionless Team Transfer\n\n### Validate\n\nHire your first 1–5 senior software engineers in 5–10 working days under CyberSpark EOR. Validate engineering velocity without waiting 3–6 months for entity formation.\n\nExpected window: Months 1–6\n\n- Zero setup fee; instant hiring velocity\n\n- UK-law commercial agreement & single GBP invoice"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Headcount economics",
+      "title": "Costs & Break-Even Analysis: EOR vs Entity",
+      "body": "At what team size does an Indian entity become more cost-effective than an Employer of Record? The crossover depends on management fees, but non-financial factors often dominate.\n\n| Engineering team size | EOR management overhead | Entity compliance overhead | Strategic recommendation |\n| --- | --- | --- | --- |\n| 1–5 engineers | Proportionate per head; zero fixed legal overhead | Disproportionately high (incorporation fees plus fixed annual compliance) | EOR strongly recommended |\n| 6–10 engineers | Highly competitive; zero administrative distraction | Fixed costs spread; roughly comparable financially | EOR recommended for agility |\n| 10–15 engineers | Fees accumulate, but flexibility remains high | Lower per-head compliance cost; breakeven territory | Crossover zone (begin entity planning) |\n| 15+ engineers | Higher aggregate cost than entity overhead | Fixed compliance cost easily absorbed by scale | Entity makes long-term sense |\n\nWhen entity setup is the right choice\n\nAn Indian subsidiary makes strategic sense when you plan a large India team over a multi-year horizon, when India is a targeted commercial market (generating local INR revenue), or when specific Indian regulatory licenses (e.g. RBI non-banking or payment certifications) require domestic incorporation."
+    },
+    {
+      "blockType": "prose",
+      "title": "Operational Comparison Matrix",
+      "body": "Direct breakdown of what your UK management team manages under each model.\n\n| Operational function | Indian entity route | CyberSpark EOR route |\n| --- | --- | --- |\n| India corporate incorporation | You (3–6 months + legal fees) | Not applicable (zero setup) |\n| India banking & capital inflow | You (RBI FIRMS reporting & INR bank) | CyberSpark (single GBP invoice) |\n| PF, ESI & Professional Tax registrations | You (separate state registrations) | CyberSpark (already registered) |\n| Employment contracts in Indian law | You (drafted with Indian legal counsel) | CyberSpark (fully compliant contracts) |\n| Monthly INR payroll & TDS withholding | You (handled with local payroll team) | CyberSpark (end-to-end payroll) |\n| Annual statutory audit & RoC filings | You (audited by independent CA) | CyberSpark (absorbed internally) |\n| Currency conversion risk (INR vs GBP) | You (direct FX exposure & spreads) | CyberSpark (fixed reference rates) |\n| Time to first engineer onboarded | 3–6 months minimum | 5–10 working days |"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "STRUCTURAL DISCOVERY",
+      "title": "Model Your India Headcount Strategy",
+      "body": "Speak directly with our leadership to compare loaded EOR projections against standalone Indian entity incorporation costs for your technology team.\n\n- 45-Minute Session: Objective evaluation of whether EOR or subsidiary is right for your scale.\n\n- Cost Modeling: Granular breakdown of fixed legal costs vs variable EOR management fees.\n\n- Migration Path: Pre-planned bridge to transfer engineers if you incorporate later.\n\n- Direct discussion with our directors · No obligation"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions: EOR vs Indian Entity",
+      "body": "Direct answers regarding Indian corporate directorships, tax exposure, employee exits, and hybrid setups."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE SERVICES & PLATFORMS",
+      "title": "Related Services & Platforms",
+      "body": "### Employer of Record (EOR) India\n\nLegally employ software engineers in India directly under your brand with zero Indian entity required.\n\n### International Payroll for India Teams\n\nStatutory PF, ESI, Professional Tax, and TDS calculated and remitted with single GBP invoicing.\n\n### EOR vs PEO Comparison\n\nDetailed comparison of co-employment PEO vs full Employer of Record for international engineering teams.\n\n### Offshore Software Development India\n\nDedicated UK-directed engineering teams for ongoing product development without employment overhead.\n\n### SparkTalent Platform\n\nTechnical hiring assessment platform with real Git repos, live code execution, and benchmarked scoring.\n\n### WorkSpace Platform\n\nDistributed team operations, automated standup sync, and delivery visibility for UK engineering leaders."
+    }
+  ]
+}

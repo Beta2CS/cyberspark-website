@@ -1,26 +1,70 @@
 {
   "items": [
-    { "label": "Services", "href": "/services" },
-    { "label": "About", "href": "/about" },
-    { "label": "Team", "href": "/team" },
-    { "label": "Insights", "href": "/insights" },
-    { "label": "Contact", "href": "/contact" }
-  ],
-  "cta": { "label": "Book a call", "href": "/contact" },
-  "footer": [
     {
-      "title": "Services",
-      "links": [
-        { "label": "Accounts and tax", "href": "/services" },
-        { "label": "Insights", "href": "/insights" }
-      ]
+      "label": "About Us",
+      "href": "/about"
     },
     {
-      "title": "Firm",
+      "label": "Products",
+      "href": "/products"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Blog",
+      "href": "/blogs"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "cta": {
+    "label": "Book a call",
+    "href": "/contact"
+  },
+  "footer": [
+    {
+      "title": "Company No: 14891489",
       "links": [
-        { "label": "About us", "href": "/about" },
-        { "label": "Our team", "href": "/team" },
-        { "label": "Contact", "href": "/contact" }
+        {
+          "label": "Services",
+          "href": "/services"
+        },
+        {
+          "label": "Products",
+          "href": "/products"
+        },
+        {
+          "label": "About",
+          "href": "/about"
+        },
+        {
+          "label": "Careers",
+          "href": "/careers"
+        },
+        {
+          "label": "Blog",
+          "href": "/blogs"
+        },
+        {
+          "label": "Contact",
+          "href": "/contact"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy-policy"
+        },
+        {
+          "label": "Cookie",
+          "href": "/cookie-policy"
+        }
       ]
     }
   ]

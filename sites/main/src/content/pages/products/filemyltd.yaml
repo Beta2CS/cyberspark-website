@@ -1,0 +1,67 @@
+# Imported from https://www.cyberspark.uk/products/filemyltd (Craeft).
+{
+  "title": "FileMyLtd: File Your Company Accounts and CT600 Yourself",
+  "seo": {
+    "title": "File Dormant & Micro-Entity Accounts and CT600 | FileMyLtd",
+    "description": "FileMyLtd by CyberSpark helps UK directors file dormant and micro-entity accounts to Companies House and the CT600 to HMRC, with plain-English checks."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "FileMyLtd: File Your Company Accounts and CT600 Yourself",
+      "lead": "FileMyLtd by CyberSpark helps UK directors file dormant and micro-entity accounts to Companies House and the CT600 to HMRC, with plain-English checks."
+    },
+    {
+      "blockType": "prose",
+      "body": "FileMyLtd is our software for UK directors who want to file dormant company accounts, micro-entity accounts and the CT600 Company Tax Return themselves. It fills in what it can from the Companies House register, checks every figure in plain English, and leaves the final approval and submit to you.\n\nAt a glance\n\n- **Filings Covered:** 3\n\n- **Steps to File:** 4\n\n- **Reminders per Deadline:** 5\n\n![The FileMyLtd home page: file your company accounts yourself, properly](/media/imported/filemyltd-1440.webp)\n\nWhat is FileMyLtd?"
+    },
+    {
+      "blockType": "prose",
+      "title": "What is FileMyLtd?",
+      "body": "FileMyLtd is online software that lets the director of a small UK limited company prepare and file the company's own year-end filings, without paying an accountant for work the company doesn't need. It covers three filings:\n\n- Dormant company accounts for Companies House, for companies that had no significant transactions in the year.\n\n- Micro-entity accounts for Companies House, for small trading companies within the micro-entity limits.\n\n- The CT600 Company Tax Return for HMRC, prepared from the micro-entity accounts you have just approved, with the Corporation Tax worked out step by step.\n\nWe built FileMyLtd because we file our own company's accounts and wanted software that does the fiddly parts and explains the rest. The director always reads the final accounts, makes the declaration and presses submit. Nothing is ever sent without you.\n\nFileMyLtd is in early access. Filing is being tested with the Companies House and HMRC software filing services, and live filing opens to early-access members first.\n\n[Go to filemyltd.co.uk →](https://filemyltd.co.uk/)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Why Filing Is Changing",
+      "title": "Why Do Small Companies Need Filing Software Now?",
+      "body": "Two free government services that many directors used to file their own accounts are going away:\n\n| Change | Date | What it means |\n| --- | --- | --- |\n| HMRC closed its \"File your accounts and Company Tax Return\" online service | 31 March 2026 | A CT600 can no longer be filed on HMRC's website. Companies must use commercial software to file their Company Tax Return. |\n| Companies House stops accepting accounts through WebFiling or on paper | 1 April 2028 | All companies, dormant ones included, must file accounts using software in iXBRL format. |\n\nIn October 2026 the government also paused its plan to make small companies and micro-entities file a profit and loss account with Companies House, so the current filing requirements carry on from April 2028.\n\nFor a dormant company or a one-person trading company, the choice is now between an accountant, general accounting software, or a tool built for exactly these filings. FileMyLtd is the third option."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HOW IT WORKS",
+      "title": "How to File Your Company Accounts with FileMyLtd",
+      "body": "From your company number to a submitted filing in four steps. You stay in control of every figure.\n\n- 01Step 1Find Your CompanyStart from the register\n\n- 02Step 2Start From Last YearComparatives filled in\n\n- 03Step 3Check in Plain EnglishProblems explained, not coded\n\n- 04Step 4You Approve and SubmitThe director presses submit\n\n### Find Your Company\n\nType your company number. The company name, directors and filing deadlines come straight from the Companies House register, so you don't type them in.\n\nExpected window: Step 1\n\n- Company details from Companies House\n\n- Your accounts and tax deadlines"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Dormant Company Accounts",
+      "title": "File Dormant Company Accounts Online",
+      "body": "A dormant company still has to file accounts with Companies House every year, within 9 months of the end of its financial year. Filing the accounts is free at Companies House, but a late filing penalty starts at £150 for a private company and rises to £1,500 if the accounts are more than six months late. The penalty is doubled if the accounts are late two years in a row.\n\nWith FileMyLtd you answer a short set of questions to confirm the company really was dormant, then the software prepares the dormant accounts, checks them and sends them to Companies House once you approve. You will need your company authentication code from Companies House to file.\n\n- Dormancy questions that walk through each type of transaction, so you know whether the company qualifies.\n\n- Last year's figures carried across automatically.\n\n- Deadline reminders 60, 30, 14, 7 and 1 days before the accounts are due.\n\nA dormant company usually doesn't file a CT600 unless HMRC sends it a notice to deliver one. If your company starts trading, you can move it to the micro-entity plan and last year's dormant figures carry across as comparatives.\n\n![The FileMyLtd four-step process, starting from a company number](/media/imported/filemyltd-how-it-works-1440.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Micro-Entity Accounts and CT600",
+      "title": "Micro-Entity Accounts and the CT600 in One Place",
+      "body": "A company is a micro-entity if it meets at least two of these three limits (for accounting periods starting on or after 6 April 2025):\n\n| Limit | Micro-entity |\n| --- | --- |\n| Annual turnover | £1 million or less |\n| Balance sheet total | £500,000 or less |\n| Average number of employees | 10 or fewer |\n\nFileMyLtd prepares the micro-entity accounts for Companies House, then starts your CT600 Company Tax Return from the accounts you have just approved:\n\n- Adjust for tax items, such as client entertaining and capital allowances.\n\n- See the Corporation Tax worked out, with each step shown, including marginal relief for profits between £50,000 and £250,000.\n\n- Validate, then submit to HMRC with your company's Unique Taxpayer Reference (UTR) and HMRC sign-in details.\n\nThe CT600 is due 12 months after the end of the accounting period, but Corporation Tax is usually payable 9 months and 1 day after it. FileMyLtd reminds you of both.\n\nFileMyLtd is built for straightforward small companies. If your company claims R&D relief, group relief or has overseas income, an accountant is the better choice.\n\nIs FileMyLtd Right for You?"
+    },
+    {
+      "blockType": "prose",
+      "title": "Is FileMyLtd Right for Your Company?",
+      "body": "| FileMyLtd covers | FileMyLtd does not cover |\n| --- | --- |\n| Dormant company accounts | VAT returns, payroll and bookkeeping |\n| Micro-entity accounts | Confirmation statements |\n| The CT600 Company Tax Return for micro-entities | Full, group, audited or LLP accounts |\n| Deadline reminders for accounts and tax | Accountancy or tax advice |\n\nSecurity is built in. Two-factor sign-in is required before anyone can approve or submit. Your company UTR is encrypted when it is saved, and your HMRC sign-in details are used for the one submission they are needed for and never stored.\n\nIndependent software. FileMyLtd is not part of, endorsed by or affiliated with Companies House or HMRC. It sends filings through their official software filing services.\n\nSimple pricing. Each company you file for has its own yearly plan: one for dormant companies, and one for micro-entities that includes the CT600. See the [current plans on filemyltd.co.uk](https://filemyltd.co.uk/pricing/).\n\nNeed a filing or finance tool built for your own business? The same team builds [bespoke software](/services/bespoke-software-development) and web applications for UK companies."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Common Questions",
+      "title": "Frequently Asked Questions About FileMyLtd",
+      "body": "What directors ask before filing their own company accounts."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EARLY ACCESS",
+      "title": "File Your Company Accounts Yourself, Properly",
+      "body": "Join FileMyLtd during early access. Early members get live filing first, and the software reminds you before every accounts and tax deadline.\n\n- Dormant, micro-entity accounts and CT600\n\n- Checked in plain English before you submit\n\n- You press submit, always"
+    }
+  ]
+}

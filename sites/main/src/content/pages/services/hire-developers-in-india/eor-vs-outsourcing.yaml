@@ -1,0 +1,68 @@
+# Imported from https://www.cyberspark.uk/services/hire-developers-in-india/eor-vs-outsourcing (Craeft).
+{
+  "title": "EOR vs Outsourcing vs Staff Augmentation",
+  "seo": {
+    "title": "EOR vs Outsourcing vs Staff Augmentation: India Hiring Guide",
+    "description": "EOR vs outsourcing vs staff augmentation for UK companies hiring in India. Who employs the team, who owns delivery, and which model fits your stage and roadmap."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "EOR vs Outsourcing vs Staff Augmentation",
+      "lead": "EOR vs outsourcing vs staff augmentation for UK companies hiring in India. Who employs the team, who owns delivery, and which model fits your stage and roadmap."
+    },
+    {
+      "blockType": "prose",
+      "body": "Three engagement models. Three distinct relationships with your engineering team, technical output, and legal employment. CyberSpark operates all three — this guide breaks down the real differences, where each fits, and how to select the right model for your software roadmap.\n\nAt a Glance\n\n- EOR, Outsourcing or Staff Augmentation\n\n- You choose based on stage and scope\n\n- All three run without an Indian entity\n\n- Models can be combined over time\n\n- **Outcome 01:** IP and source code stay yours\n\n- **Outcome 02:** No Indian entity required\n\n- **Outcome 03:** 5.4m people in India's tech sector\n\n- **Outcome 04:** CyberSpark operates all three models\n\nTHE THREE MODELS\n\nMarket context\n\nAccording to [Tech Nation](https://technation.io/report2023/) and other UK reports, experienced engineers are in short supply, and many UK tech firms now build distributed teams. With about 5.4 million people working in India's technology sector ([NASSCOM, 2024](https://nasscom.in/knowledge-center/publications/technology-sector-india-2024)), UK scale-ups deploy these three models depending on whether they need to own named headcounts, purchase milestone outcomes, or cover immediate velocity surges."
+    },
+    {
+      "blockType": "prose",
+      "title": "The Three Models Defined Plainly",
+      "body": "Before comparing contract nuances, here is what each model means for your daily engineering operations:\n\n01 · Employer of Record (EOR)\n\n### You Hire the Person\n\nYou identify specific developers (screened via [SparkTalent](/products/sparktalent)). CyberSpark employs them legally in India — managing payroll, PF, ESI, and compliance via [WorkSpace](/products/workspace) and our dedicated portal at [EOR Services UK ↗](https://www.eor-services.co.uk/). You direct day-to-day work.\n\nDefining trait: direct management control over named individuals, with zero Indian entity.\n\n02 · Software Outsourcing\n\n### You Buy an Outcome\n\nYou contract CyberSpark to deliver a defined software output — a platform, MVP, or complex integration. CyberSpark assembles the engineering pod, manages sprint velocity, and delivers documented software against fixed milestones.\n\nDefining trait: CyberSpark carries execution risk; you review demonstrable deliverables.\n\n03 · Staff Augmentation\n\n### You Add Individual Capacity\n\nYou add specialist engineers into your existing sprints for 3–12 months to close skill gaps, hit deadlines, or cover team departures. Augmented developers work directly within your Git workflows.\n\nDefining trait: maximum short-to-medium-term flexibility, without long-term commitment.\n\n### Side-by-Side Decision Comparison\n\n| Decision factor | EOR | Outsourcing | Staff Augmentation |\n| --- | --- | --- | --- |\n| Who manages day-to-day work | Your engineering leads | CyberSpark UK PM & architect | Your in-house scrum lead |\n| Who manages legal employment | CyberSpark India entity | CyberSpark (employer) | CyberSpark / agency |\n| Engineer selection | You interview and select named talent | CyberSpark assigns pod roles | You review vetted candidate profiles |\n| Commercial deliverable | Direct employed workforce | Production-ready software system | Flexible engineering capacity |\n| IP ownership | 100% client IP assignment | 100% contractual handover | 100% retained by client |\n| Pricing & billing | Monthly loaded salary + EOR fee (GBP) | Fixed-price milestone disbursements | Agreed daily or monthly rate |\n| Commitment & minimum term | Notice period (30–90 days) | Project timeline (8–16 weeks) | Short-term (1–6 months) |\n| Indian entity required | No | No | No |"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CHOOSING A MODEL",
+      "title": "When Each Engagement Model Is Right",
+      "body": "Choose your model based on internal managerial capacity, certainty of scope, and long-term hiring intentions:\n\nChoose EOR when\n\n### Direct Team Building\n\n- You have identified specific individuals (referrals, former contractors, direct recruits) you want to hire.\n\n- You need rapid, compliant employment, ready to start within 5–10 working days.\n\n- You want direct control over sprint tickets, daily rituals, and long-term IP assignment.\n\n- You are testing India as a talent hub before committing to incorporation.\n\nChoose outsourcing when\n\n### Milestone-Governed Builds\n\n- You have a clearly defined scope and need a complete production system delivered — not engineers to manage.\n\n- Your UK technical leadership is stretched thin with core roadmap items and lacks capacity to run extra standups.\n\n- You want predictable capital outlay, governed strictly by demonstrable functionality.\n\n- You require a complete handover package with architectural runbooks and knowledge transfer.\n\nChoose augmentation when\n\n### Surge Capacity & Gaps\n\n- You need individual engineers for 3–12 months to bridge a niche tech gap (e.g. Next.js, Kubernetes, AI tooling).\n\n- You already have an established UK engineering structure that can readily onboard external resources.\n\n- Agility is paramount — you need the freedom to adjust headcount rapidly without statutory notice cycles.\n\n- Hitting a fixed release date or commercial customer deadline requires immediate capacity."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HYBRID STRATEGY",
+      "title": "How UK Scale-Ups Combine Models Over Time",
+      "body": "Most successful tech companies transition between models as product maturity evolves:\n\n- 01Months 1–3OutsourceBuild the Core MVP\n\n- 02Months 4–9Offshore PodDedicated Velocity\n\n- 03As NeededAugmentSpecialist Scaling\n\n- 04Long-TermEOR EmployDirect Team Ownership\n\n### Outsource\n\nFixed-milestone outsourcing delivers your initial architecture, MVP, or major integration quickly under UK governance without hiring delays.\n\nExpected window: Months 1–3\n\n- Fixed scope architecture & working MVP\n\n- Zero management overhead for UK leaders"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "THE HYBRID MODEL",
+      "title": "The Fourth Model: Dedicated Offshore Development",
+      "body": "Beyond the three standard models, CyberSpark frequently operates what is often the most effective hybrid vehicle for ongoing software products: dedicated offshore development.\n\nLike outsourcing\n\n### Assembled & Supported\n\nCyberSpark recruits, tests, equips, and HR-manages the complete engineering pod, so your UK team spends no time on local administration.\n\nLike augmentation\n\n### Embedded in Culture\n\nEngineers participate in your daily Slack, GitHub, Jira, and sprint rituals, absorbing your domain context and coding standards.\n\nUnlike both\n\n### Long-Term Dedicated Pods\n\nNamed full-time engineers dedicated exclusively to your roadmap, overseen by a UK solutions architect who keeps technical debt in check.\n\nThe primary model for multi-year products\n\nFor UK businesses committed to building software over months and years, dedicated offshore development offers the velocity of an in-house team with the operational flexibility of a managed service."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HYBRID IN PRACTICE",
+      "title": "Practical Hybrid Scenarios in Action",
+      "body": "Most long-term CyberSpark clients deploy more than one model simultaneously to match their operational realities:\n\nScenario A\n\n### Outsource → Offshore Transition\n\nEngineer the core product or MVP under a fixed-price outsourcing scope. Once in production, retain the same engineering pod on a dedicated offshore basis for feature velocity.\n\nZero lost context between the initial build and ongoing maintenance.\n\nScenario B\n\n### EOR Lead + Offshore Delivery Pod\n\nDirectly employ a key tech lead or engineering manager via CyberSpark EOR, while surrounding them with an agile, managed offshore engineering pod.\n\nNamed leadership alignment with scalable squad capacity.\n\nScenario C\n\n### Augmentation Surge Bridge\n\nInject 2–3 augmented developers into existing UK teams immediately to meet release milestones, while your long-term dedicated offshore squad is sourced and assembled.\n\nProtects sprint deadlines without rushing long-term hiring."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "ENGAGEMENT DISCOVERY",
+      "title": "Book a 30-Minute Model Consultation",
+      "body": "Speak directly with our engineering leads. We evaluate your product roadmap, management capacity, and budget to recommend the right delivery model."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions: India Delivery Models",
+      "body": "Common questions regarding switching models, staff augmentation vs dedicated teams, and choosing upfront."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE SERVICES & PLATFORMS",
+      "title": "Related Services & Platforms",
+      "body": "### Employer of Record (EOR) India\n\nLegally employ software engineers in India directly under your brand with zero Indian entity required.\n\n### Offshore Software Development India\n\nDedicated UK-directed engineering teams for ongoing product development and technical roadmap velocity.\n\n### Software Outsourcing to India\n\nDefined software scope, milestone invoicing, and UK architecture governance for turnkey systems.\n\n### EOR vs PEO Comparison\n\nDetailed compliance comparison of co-employment PEO vs full Employer of Record for international hiring.\n\n### SparkTalent Platform\n\nTechnical hiring assessment platform with real Git repos, live code execution, and benchmarked scoring.\n\n### WorkSpace Platform\n\nDistributed team operations, automated standup sync, and delivery visibility for UK engineering leaders."
+    }
+  ]
+}

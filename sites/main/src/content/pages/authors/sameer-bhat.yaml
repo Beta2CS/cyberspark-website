@@ -1,0 +1,31 @@
+# Imported from https://www.cyberspark.uk/authors/sameer-bhat (Craeft).
+{
+  "title": "Sameer Bhat",
+  "seo": {
+    "title": "Sameer Bhat, Founder | CyberSpark",
+    "description": "Articles by Sameer Bhat, Founder at CyberSpark: MVP Development: How to Scope and Build a Minimum Viable Product; How Much Does a Website Cost in the UK? What D"
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Sameer Bhat",
+      "lead": "Articles by Sameer Bhat, Founder at CyberSpark: MVP Development: How to Scope and Build a Minimum Viable Product; How Much Does a Website Cost in the UK? What D"
+    },
+    {
+      "blockType": "prose",
+      "body": "Founder at CyberSpark\n\n![Sameer Bhat](/media/imported/sameer-bhat-400.webp)"
+    },
+    {
+      "blockType": "prose",
+      "title": "Sameer Bhat",
+      "body": "Founder"
+    },
+    {
+      "blockType": "prose",
+      "title": "Latest Articles",
+      "body": "Fresh writing focused on real delivery challenges and practical implementation choices.\n\n![MVP Development: How to Scope and Build a Minimum Viable Product](/media/imported/unsplash-product-planning-wall-1600.webp)\n\n### MVP Development: How to Scope and Build a Minimum Viable Product\n\nAn MVP is a real product with fewer features, not a prototype. Here is how to decide what goes in, what it needs behind the screens that people forget, and how to plan what happens after launch.\n\n![How Much Does a Website Cost in the UK? What Drives the Price](/media/imported/unsplash-website-design-laptop-1600.webp)\n\n### How Much Does a Website Cost in the UK? What Drives the Price\n\nWebsite quotes in the UK can differ tenfold for what sounds like the same job. Here is what actually drives the cost, the UK obligations quotes often leave out, and how to compare them fairly."
+    }
+  ]
+}

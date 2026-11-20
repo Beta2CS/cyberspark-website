@@ -1,0 +1,68 @@
+# Imported from https://www.cyberspark.uk/services/seo-and-ai-search (Craeft).
+{
+  "title": "SEO Agency UK for Google and AI Search",
+  "seo": {
+    "title": "SEO Agency UK for Google & AI Search | CyberSpark",
+    "description": "UK SEO agency run by software engineers. Technical SEO, content and local SEO for Google, plus generative engine optimisation for ChatGPT and AI Overviews."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "SEO Agency UK for Google and AI Search",
+      "lead": "UK SEO agency run by software engineers. Technical SEO, content and local SEO for Google, plus generative engine optimisation for ChatGPT and AI Overviews."
+    },
+    {
+      "blockType": "prose",
+      "body": "Your customers search on Google and, increasingly, ask ChatGPT, Gemini or Google's AI Overviews. We're a UK SEO agency run by software engineers: we fix what stops your site ranking, build content that answers buyers' questions, and help AI assistants find and recommend you. We measure everything, and we don't promise rankings nobody can guarantee.\n\nAt a Glance\n\n- Technical SEO\n\n- Content and on-page SEO\n\n- Local SEO\n\n- Generative engine optimisation (GEO)\n\n- **Outcome 01:** A site search engines can crawl and trust\n\n- **Outcome 02:** Pages that answer buyers' questions\n\n- **Outcome 03:** Visibility in Google Maps\n\n- **Outcome 04:** Mentions in AI answers, measured\n\n![CyberSpark diagnostic utilities for SEO and AI search](/media/imported/cyberspark-utilities-1536.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "WHAT WE DO",
+      "title": "Our SEO Services",
+      "body": "| Service | What it covers | Who it's for |\n| --- | --- | --- |\n| Technical SEO | Crawling, indexing, rendering, Core Web Vitals, structured data, site migrations. We make the fixes in your code. | Sites that aren't being indexed properly, JavaScript-heavy sites, anyone planning a redesign or platform move |\n| Content and on-page SEO | Keyword and question research, page structure, titles and descriptions, internal linking, new and improved pages | Businesses whose pages don't match what buyers search for |\n| Local SEO | Google Business Profile, citations, reviews, location pages | Businesses serving customers in specific towns or regions |\n| AI search visibility (GEO) | AI crawler access, entity consistency, answer-ready content, citations, measurement across six AI assistants | Businesses that want ChatGPT, Gemini and AI Overviews to recommend them |\n\nMost projects combine two or three of these. We start with an audit and recommend the order that will make the biggest difference for you."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "SEO AND AI SEARCH",
+      "title": "SEO and AI Search: What's the Difference?",
+      "body": "|  | Traditional search | AI search |\n| --- | --- | --- |\n| Where | Google, Bing | ChatGPT, Gemini, Perplexity, Copilot, Google's AI Overviews |\n| What the user gets | A list of links and a map | A written answer naming a few businesses or sources |\n| What decides visibility | Relevance, quality, links and page experience | Much the same foundations, plus whether assistants can read your site and find consistent, trustworthy information about you elsewhere |\n| How you measure it | Rankings, impressions and clicks in Search Console | Which assistants name you, for which questions, and who they name instead |\n\nThey aren't separate strategies. Most AI assistants ground their answers in web search results, so a site that is well built, clearly written and well regarded does better in both. AI search adds a few things traditional SEO often skips: letting the right AI crawlers in, keeping your business details consistent across the web, and writing answers that can be quoted."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "WHY ENGINEERS",
+      "title": "Why an SEO Agency Run by Engineers?",
+      "body": "Many SEO problems are really software problems: a JavaScript framework that hides content from crawlers, a CMS that creates thousands of duplicate URLs, a slow page, or a migration that breaks old links. A report that describes them doesn't fix them.\n\nWe're a software company, so:\n\n- We fix things in your code, through pull requests your team reviews, or alongside your developers.\n\n- We build our own tools. [AI Visibility Check](/products/ai-visibility-check) runs 21 checks and asks six AI assistants the questions your customers type. We also offer [11 free SEO tools](https://aivisibilitycheck.io/tools/), from a schema checker to a redirect checker. Our [scoring methodology](https://aivisibilitycheck.io/methodology/) is public.\n\n- We practise it ourselves. When we moved our own websites to a new platform, every existing address kept working and was tested automatically before and after the switch.\n\nContent still matters as much as code. We write and improve pages based on the questions buyers actually ask, with facts you can stand behind."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "HOW WE WORK",
+      "title": "How an SEO Project Runs",
+      "body": "Evidence first, the biggest opportunities first, and reporting you can check.\n\n### Audit\n\nWe review Search Console and analytics, crawl the site, check your Google Business Profile if you serve local customers, and run AI Visibility Check for you and your competitors.\n\n### Plan\n\nWe agree the goals (enquiries, sales, visibility for specific services) and a prioritised plan, with the fixes and content that should move them most.\n\n### Deliver\n\nWe make technical fixes, write and improve pages, optimise your local presence and work on AI visibility, in short cycles you can review.\n\n### Measure\n\nWe report on impressions, clicks, enquiries and AI mentions, explain what changed and why, and adjust the plan."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CHOOSING AN SEO AGENCY",
+      "title": "How to Choose an SEO Company in the UK",
+      "body": "Whoever you choose, ask these questions first:\n\n- Do they guarantee rankings? If yes, walk away. Nobody controls Google or an AI assistant, and guarantees usually mean risky shortcuts.\n\n- Can they fix technical issues, or only report them? If your site needs code changes, who makes them?\n\n- What will they report, and how often? Look for impressions, clicks and enquiries, not just a rankings table.\n\n- Who owns the work? Content, code, accounts and data should be yours if you part ways.\n\n- How do they build links and mentions? Bought links and fake reviews breach Google's guidelines and can do lasting harm.\n\n- Do they understand AI search? Ask how they would check whether ChatGPT or Gemini mention you, and how they'd measure a change.\n\nA good agency will be happy to answer all six in writing."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions",
+      "body": "Straight answers about SEO, AI search and working with us."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE FURTHER",
+      "title": "SEO and AI Search Services",
+      "body": "### Technical SEO Agency UK\n\nTechnical SEO makes sure search engines and AI crawlers can reach, render and understand your website. We are software engineers, so we don't stop at an audit: we find what stops your pages being crawled, indexed and shown, then fix it in your code, and we protect your rankings when you redesign or move platforms.\n\n### Local SEO Services UK\n\nWhen someone nearby searches for what you do, or asks an AI assistant for a recommendation, local SEO decides whether your business appears. We optimise your Google Business Profile, fix your listings across the web, help you earn reviews, and build location pages that answer real questions.\n\n### AI Search Visibility & GEO Agency UK\n\nMore buyers now ask ChatGPT, Gemini, Perplexity or Google's AI Overviews for recommendations instead of scrolling through results. Generative engine optimisation (GEO) is the work that helps those assistants find your business, understand what you do, trust it, and name you in their answers. We built our own AI visibility tool to measure it, so every recommendation starts from evidence."
+    },
+    {
+      "blockType": "prose",
+      "title": "Want more customers to find you in search?",
+      "body": "Tell us about your site and what you'd like to be found for. We'll review where you stand and reply with practical next steps."
+    }
+  ]
+}

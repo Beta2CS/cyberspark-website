@@ -1,13 +1,55 @@
-title: "Contact"
-seo:
-  title: "Contact CyberSpark | Book a free call"
-  description: "Get in touch with CyberSpark in London to book a free, no-obligation call about your accounts, tax or payroll."
-updatedAt: 2026-10-19
-blocks:
-  - blockType: hero
-    title: Contact us
-    lead: "Tell us a little about your business and we'll arrange a call at a time that suits you."
-
-  - blockType: contact
-    title: Send us a message
-    lead: "We reply within one working day."
+# Imported from https://www.cyberspark.uk/contact (Craeft).
+{
+  "title": "Contact",
+  "seo": {
+    "title": "Contact CyberSpark | Software Development Company UK",
+    "description": "Tell us what you want to build, fix or hire for. Here is what happens after you get in touch, what to include, and how to reach our team in London and India."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Talk to Our Team About Your Next Build",
+      "lead": "Tell us what you want to build, fix or hire for. Here is what happens after you get in touch, what to include, and how to reach our team in London and India."
+    },
+    {
+      "blockType": "prose",
+      "body": "Tell us what you want to build, improve or hire for. A person on our team reads every enquiry and replies with practical next steps, not a sales script.\n\nShare Context\n\nTell us your product goals, current blockers, and timeline constraints.\n\nLive Discovery Call\n\nWe run a focused session to align on priorities, risks, and delivery path.\n\nActionable Roadmap\n\nReceive a clear plan with recommendations you can execute immediately."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Project enquiry",
+      "title": "Tell us what you are building and where you are blocked.",
+      "body": "We can support greenfield products, platform scale work, and modernisation programmes. Share scope and context, and we will propose the right engagement model.\n\nEmail\n\ninfo@cyberspark.uk\n\nFor project enquiries and questions.\n\nPhone\n\n02080580089\n\nDirect line for business inquiries.\n\nHead Office\n\n71-75, Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ\n\nAvailability\n\nMon–Fri, 09:00–18:00 (UK)\n\nDelivery teams support UK and India time windows.\n\nContact form\n\n### Get a tailored response from our team\n\nInclude business goals, desired outcomes, and any technical constraints. The more context you share, the more actionable our response will be."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "WHAT HAPPENS NEXT",
+      "title": "What Happens After You Get in Touch",
+      "body": "- We read your message. A person on our team reads every enquiry, not an automated system, so write it the way you would explain it to a colleague.\n\n- We reply with questions or next steps. If we need more detail, we ask. If we can help, we suggest a call. If we are not the right fit, we say so and, where we can, point you to someone who is.\n\n- A conversation about your goals. We talk through what you want to achieve, your current systems and any constraints. You talk to the engineers who would work on your project.\n\n- A written proposal. For a project, that means a scope, the approach and a quote for it. For a team in India, the roles, how hiring works and the monthly cost. There is no obligation until you sign.\n\nWe are happy to sign an NDA before you share confidential details."
+    },
+    {
+      "blockType": "prose",
+      "title": "What to Include in Your Message",
+      "body": "You don't need a full specification. These details help us give you a useful first reply:\n\n- What you want to achieve, in business terms: more enquiries, fewer manual steps, a new product, more engineers.\n\n- What exists today: a current website, app, system or codebase, and what isn't working about it.\n\n- Who will use it: customers, staff, partners, and roughly how many.\n\n- Timing: any deadlines or events the work has to fit around.\n\n- For hiring in India: the roles, the skills and how many engineers you need.\n\nNot ready to talk yet? Our guides on bespoke software, hiring developers in India and cloud migration answer the questions we hear most, or you can [run a free AI Visibility Check](/products/ai-visibility-check) on your website."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Global Delivery Footprint",
+      "title": "Where we are",
+      "body": "Our company is registered in London and our engineering team works in India, so the people you speak to are the people who build your software.\n\n### London, United Kingdom\n\nGMT / BST\n\n71-75, Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ\n\n### Engineering Team, India\n\nIST\n\n770/1, Hamdaniya Colony, Sector 6, Bemina, Srinagar, J&K, India – 190018"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "START A CONVERSATION",
+      "title": "Prefer to talk it through?",
+      "body": "Book a call and we will go through your goals, the options and the practical next steps with you.\n\n- Shaped around your goals\n\n- With the engineers who would do the work\n\n- Practical next steps you can act on"
+    },
+    {
+      "blockType": "contact",
+      "title": "Send us a message",
+      "lead": "We reply within one working day."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+# Imported from https://www.cyberspark.uk/services/hire-developers-in-india/offshore-development (Craeft).
+{
+  "title": "Offshore Software Development in India for UK Tech Companies",
+  "seo": {
+    "title": "Offshore Software Development in India for UK Companies",
+    "description": "Offshore software development in India for UK companies: a dedicated engineering team on your product, UK technical oversight, 2-week sprints, IP owned by you."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Offshore Software Development in India for UK Tech Companies",
+      "lead": "Offshore software development in India for UK companies: a dedicated engineering team on your product, UK technical oversight, 2-week sprints, IP owned by you."
+    },
+    {
+      "blockType": "prose",
+      "body": "CyberSpark provides UK technology companies with a dedicated, UK-directed offshore engineering team based in India. Senior engineers. 2-week sprint cadence. UK solutions architecture governance. 100% IP ownership. No India entity required.\n\nAt a Glance\n\n- Dedicated engineers, not shared\n\n- 2-week sprint cadence\n\n- UK solutions architect oversight\n\n- Screened via SparkTalent\n\n- **Outcome 01:** No India entity required\n\n- **Outcome 02:** 4-5 hrs daily UK-India overlap\n\n- **Outcome 03:** 100% IP owned by you\n\n- **Outcome 04:** Operational in 2-3 weeks"
+    },
+    {
+      "blockType": "prose",
+      "title": "What CyberSpark Delivers",
+      "body": "CyberSpark provides UK technology companies with fully dedicated, embedded offshore engineering teams governed by UK technical leadership.\n\n01 · Embedded focus\n\n### Dedicated Engineering Team\n\nEngineers sourced, technically screened, and onboarded by CyberSpark work on your product only. Same Jira board, same Slack workspace, same Git repository — an extension of your UK engineering org.\n\n02 · Real-code screening\n\n### Pre-Screened with SparkTalent\n\nEvery engineer placed on your team is vetted using CyberSpark's [SparkTalent](/products/sparktalent) assessment platform. Candidates solve real-world problems in active Git repositories with live automated QA and MediaPipe AI anti-cheat verification.\n\n03 · Technical leadership\n\n### UK Solutions Architecture\n\nEvery engagement is governed by a UK-based solutions architect who owns the technical direction, reviews all architecture decisions, and attends your sprint reviews. You are not managing a remote team alone.\n\n04 · Sprint management\n\n### Agile Delivery via WorkSpace\n\nTwo-week sprint cadence governed via our [WorkSpace](/products/workspace) platform: in-app Git operations, calendar standups for the 4-5 hour overlap window, and multi-country leave tracking with holiday calendars.\n\n05 · Security perimeter\n\n### Client-Controlled Environment\n\nEngineers work within your security perimeter: your Git repository, your cloud accounts, your CI/CD pipelines. CyberSpark does not hold client code on its own infrastructure without explicit agreement.\n\n06 · Legal IP handover\n\n### Full IP & Documentation Transfer\n\nEvery commit is yours from day one. Handover includes API documentation, deployment runbooks, infrastructure diagrams, and test coverage reports with complete commercial rights."
+    },
+    {
+      "blockType": "prose",
+      "title": "Offshore Development vs. Outsourcing — When to Choose Which",
+      "body": "Evaluate which engagement model aligns best with your product roadmap and engineering velocity:\n\n| Factor | Offshore Development | Software Outsourcing |\n| --- | --- | --- |\n| You direct the team | Yes — daily sprint leadership | No — CyberSpark directs delivery |\n| Ongoing product work | Ideal for multi-month evolution | Suited to defined scope & MVPs |\n| Team continuity | Named engineers, long-term embedded | Team assembled per project scope |\n| Pricing | Monthly retainer | Fixed-price or T&M milestones |\n| Best for | Product development & scaling capacity | Defined build delivery & discrete apps |\n\nStill deciding how to hire? Our guide on how UK technology companies hire developers in India without a local entity compares a dedicated team with outsourcing and an Employer of Record, and [EOR vs outsourcing vs staff augmentation](/services/hire-developers-in-india/eor-vs-outsourcing) sets the three models side by side."
+    },
+    {
+      "blockType": "prose",
+      "title": "Stacks and Roles",
+      "body": "We supply vetted senior engineers across all core engineering disciplines. All engineers are technically screened with real code before placement:\n\nFrontend Engineering\n\n### Web & UI Platforms\n\nBackend Engineering\n\n### APIs & Microservices\n\nFull-Stack\n\n### End-to-End Delivery\n\nMobile Engineering\n\n### iOS & Android\n\nDevOps & Cloud SRE\n\n### Infrastructure & Scale\n\nData & QA Automation\n\n### Intelligence & Stability"
+    },
+    {
+      "blockType": "prose",
+      "title": "Selected Platforms Built with Our Offshore Team",
+      "body": "Production platforms engineered across our UK architecture leadership and India delivery pods:\n\n### [OncoPro AI](https://www.oncoproai.com/)\n\nOncology intelligence and AI diagnostic workflows, built under UK clinical and technical governance standards.\n\n### [Sol Scientifics](https://www.solscientifics.com/)\n\nScientific equipment and laboratory management platform with complex inventory and compliance tracking.\n\n### [Manchester Education](https://manchestereducation.net/)\n\nDigital learning and admissions platform, engineered across collaborative UK–India engineering pods.\n\n### [Dunes & Bricks](https://dunesandbricks.com/)\n\nReal estate investment portal engineered with complex multi-tenant data architecture and financial calculation engines.\n\nZero Indian Entity Required\n\n### How Employment Works\n\nUK companies do not need an Indian Pvt. Ltd. to run an offshore team. CyberSpark employs engineers through its India entity and provides them under a UK-law managed service contract. No Indian banking, tax filings, or statutory registrations needed."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "ENGAGEMENT LIFECYCLE",
+      "title": "The Engagement Process — Four Steps",
+      "body": "From role definition to day-one sprint onboarding, our structured process takes 2–3 weeks to deployment:\n\n- 01Week 1DiscoverRole & Stack Alignment\n\n- 02Weeks 1–2Screen via SparkTalentReal Git Repo Challenges\n\n- 03Week 2Your InterviewCandidate Selection\n\n- 04Week 3Onboard & WorkSpace SetupSprint Day One\n\n### Discover\n\nRole definition with your engineering lead. We confirm required tech stack, seniority levels, working hours overlap, and security compliance protocols.\n\nExpected window: Week 1\n\n- Technical role specification\n\n- Working hours & overlap plan"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Accountability & Governance",
+      "title": "Why Choose CyberSpark for Offshore Development",
+      "body": "Unlike conventional outsourcing brokers who sell CVs and add non-technical middlemen, CyberSpark is a UK engineering firm operating dedicated delivery capacity:\n\n| Area | Conventional agencies | CyberSpark |\n| --- | --- | --- |\n| Communication | Non-technical account managers acting as telephone buffers between you and engineers | Direct senior access. Interface directly with your engineers in sprint rituals, daily standups, and Git reviews |\n| Legal & IP | Foreign contracts with zero legal recourse in English courts if IP is disputed | UK registered entity. CYBER SPARK IT SERVICES LTD (Co. No. 14891489), Covent Garden, London. Bound by English commercial law |\n| Tech assessment | Keyword-stuffed CVs with no independent verification of actual commit quality | Turnkey operational stack. Verified code tests via SparkTalent and distributed ops via WorkSpace |\n| Retention & handover | Sudden developer turnover that stops sprint progress for weeks with zero handover | Planned continuity. If an engineer leaves, we plan an overlapping handover and find a replacement, so knowledge stays with the team |\n| Flexibility | Locked into an agency model with no path to internalising the team | Build and employ together. Offshore-develop today, and transition the same engineers to EOR India whenever your roadmap evolves |"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "TECHNICAL CONSULTATION",
+      "title": "Book a Technical Consultation",
+      "body": "Offshore model walkthrough · Team cost estimate · Tech stack alignment · No commitment required."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions",
+      "body": "Common questions regarding team structure, code IP ownership, client visits, and operational timelines."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE FURTHER",
+      "title": "Related Delivery Models & Guides",
+      "body": "### Employer of Record (EOR) India\n\nLegally employ software engineers in India directly under your brand. CyberSpark handles statutory payroll, PF, ESI, and contracts.\n\n### Software Outsourcing to India\n\nDefined software scope, milestone invoicing, and UK architecture governance. Production-ready web and mobile platforms.\n\n### EOR vs Outsourcing vs Staff Augmentation\n\nComprehensive guide comparing team management control, outcome accountability, IP ownership, and pricing structures."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Imported from https://www.cyberspark.uk/authors/sarvar-hussain (Craeft).
+{
+  "title": "Sarvar Hussain",
+  "seo": {
+    "title": "Sarvar Hussain, Content Writer | CyberSpark",
+    "description": "Sarvar Hussain, Content Writer of CyberSpark."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Sarvar Hussain",
+      "lead": "Sarvar Hussain, Content Writer of CyberSpark."
+    },
+    {
+      "blockType": "prose",
+      "body": "Content Writer at CyberSpark\n\n![Sarvar Hussain](/media/imported/avatar-placeholder.svg)"
+    },
+    {
+      "blockType": "prose",
+      "title": "Sarvar Hussain",
+      "body": "Content Writer"
+    },
+    {
+      "blockType": "prose",
+      "title": "Latest Articles",
+      "body": "Fresh writing focused on real delivery challenges and practical implementation choices.\n\n### No articles found\n\nWe're currently working on creating insightful content for you. Check back soon for our latest playbooks and perspectives."
+    }
+  ]
+}

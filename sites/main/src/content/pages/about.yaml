@@ -1,78 +1,74 @@
-title: "About us"
-seo:
-  title: "About CyberSpark | Accountants in London"
-  description: "Who we are and how we work: CyberSpark is an independent accountancy firm in London for small businesses and sole traders."
-updatedAt: 2026-10-19
-blocks:
-  - blockType: hero
-    title: "About CyberSpark"
-    lead: "An independent firm that small businesses can talk to."
-
-  - blockType: split
-    title: Our story
-    body: |
-      Tell your firm's story here: when it started, who you work with, and what makes you different. Keep it short and true.
-
-      Readers want to know whether you understand businesses like theirs, so mention the kinds of clients you know best.
-
-  - blockType: steps
-    tone: white
-    title: How we work with new clients
-    steps:
-      - title: A free call
-        text: We learn about your business and what you need.
-      - title: A fixed quote
-        text: A written proposal with a monthly fee and what's included.
-      - title: A smooth handover
-        text: We collect what we need, including from your old accountant.
-      - title: Ongoing support
-        text: Your accountant is a call or an email away.
-
-  - blockType: section
-    tone: tint
-    columns: { desktop: 3, tablet: 3, phone: 1 }
-    cells:
-      - elements:
-          - element: counter
-            value: "15"
-            label: Years in practice
-      - elements:
-          - element: counter
-            value: "200+"
-            label: Small businesses we look after
-      - elements:
-          - element: counter
-            value: "1"
-            label: Named accountant for each client
-
-  - blockType: section
-    columns: { desktop: 2 }
-    valign: center
-    cells:
-      - elements:
-          - element: heading
-            text: What you can expect
-          - element: list
-            items:
-              - icon: Clock
-                text: A reply within one working day
-              - icon: FileText
-                text: Fixed monthly fees, agreed in writing
-              - icon: Calendar
-                text: Reminders well before every deadline
-      - elements:
-          - element: accordion
-            items:
-              - title: Do you work with sole traders?
-                body: Yes. Sole traders and small limited companies are most of our clients.
-              - title: Can you take over from my current accountant?
-                body: Yes. We ask for what we need from them, with your permission.
-
-  - blockType: cta
-    title: Meet the team
-    text: The people who will look after your business.
-    buttons:
-      - label: Our team
-        href: /team
-      - label: Contact us
-        href: /contact
+# Imported from https://www.cyberspark.uk/about (Craeft).
+{
+  "title": "About Us",
+  "seo": {
+    "title": "About CyberSpark | UK Software Development Company",
+    "description": "CyberSpark is a UK software development company with its engineering team in India, building custom software, apps and websites, and our own products."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "A UK software development company, building software businesses rely on",
+      "lead": "CyberSpark is a UK software development company with its engineering team in India, building custom software, apps and websites, and our own products."
+    },
+    {
+      "blockType": "prose",
+      "body": "We design, build and look after software for businesses in the UK, Europe and India, from custom platforms to mobile apps and websites. We also build our own products, because some of the problems we met along the way needed them.\n\nCyberSpark at a Glance\n\n- Cyber Spark IT Services Ltd (Company No. 14891489)\n\n- Registered in London, UK\n\n- Engineering team in India\n\n- You own the code we write for you\n\n- **Outcome 01:** Bespoke software and web platforms\n\n- **Outcome 02:** Mobile apps for iOS and Android\n\n- **Outcome 03:** Dedicated developers in India, including EOR\n\n- **Outcome 04:** Our products: SparkTalent, WorkSpace, AI Visibility Check"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "WHAT WE DO",
+      "title": "What We Do",
+      "body": "- Who we work with: businesses in the UK, Europe and India, from start-ups to established companies\n\n- What we build: [bespoke software](/services/bespoke-software-development), websites and web apps, [mobile apps](/services/mobile-app-development) and [AI features](/services/ai-and-machine-learning-solutions)\n\n- What else we do: [help UK companies hire developers in India](/services/hire-developers-in-india) (with dedicated statutory employment via [EOR Services UK](https://www.eor-services.co.uk/)) and [help businesses get found in Google and AI search](/services/seo-and-ai-search)\n\n- Our products: [SparkTalent](/products/sparktalent) (candidate assessments), [WorkSpace](/products/workspace) (team operations and leave) and [AI Visibility Check](/products/ai-visibility-check) (AI search visibility)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "OUR STORY",
+      "title": "Our Story",
+      "body": "CyberSpark was founded by Sameer Bhat with a simple idea: build software the way you would want it built for your own business. Plan it properly, build it to last, and stay with it after launch.\n\nIt started with web projects for clients abroad. Those clients came back with bigger problems to solve, and the work grew with them. Websites became platforms, platforms gained mobile apps, and one-off projects became long-term partnerships.\n\nToday CyberSpark is a UK company registered in London, with its engineering team in India, working with businesses in the UK, Europe and India."
+    },
+    {
+      "blockType": "prose",
+      "title": "Why a UK Company With an Engineering Team in India?",
+      "body": "UK clients get a UK company to contract with, and an engineering team that works well across both countries:\n\n- Time zones that overlap. India is 4½ hours ahead of the UK during British Summer Time and 5½ hours ahead in winter, so the UK morning overlaps with the Indian afternoon. We use that window for standups, reviews and questions, and hand work over in writing at the end of each day.\n\n- One team from start to finish. The people who scope your project are the people who build it, test it and support it after launch.\n\n- Written, not remembered. Specifications, decisions and handovers live in shared documents, so nothing depends on who was in the meeting.\n\n![How CyberSpark works across London and India](/media/imported/dual-hub-delivery-model-880.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "PROPRIETARY PRODUCT SUITE",
+      "title": "Products We Built Because We Needed Them",
+      "body": "Building for clients showed us problems of our own, so we solved them:\n\n[SparkTalent](/products/sparktalent). A CV tells you little about how someone actually works. SparkTalent assesses candidates on real tasks: coding challenges in real Git repositories, QA tests, written answers and video interviews, with AI proctoring.\n\n[WorkSpace](/products/workspace). Working across London and India, our work was scattered across Git, calendars and leave spreadsheets. WorkSpace brings it together: Git work inside tickets, Google Meet standups on a shared calendar, and leave tracking that follows UK and Indian rules.\n\n[AI Visibility Check](/products/ai-visibility-check). Building software had become the easy part. Many good businesses struggle after launch because nobody can find them. AI Visibility Check shows how a business appears in Google and in AI answers such as ChatGPT and Gemini, and what to fix.\n\nWe build software. Then we found out being found is the hard part. So we work on that too.\n\nAll three are available to other companies. [Get in touch](/contact) and we will show you how they work, or [run a free AI Visibility Check](/products/ai-visibility-check)."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "OUR OPERATING PRINCIPLES",
+      "title": "Four Commitments on Every Project",
+      "body": "Whether it is a new platform, a mobile app or a dedicated team, you contract with a UK company under English law, and you own the code.\n\n01 · Understand first\n\n### Scope Before Code\n\nWe learn how your business works before proposing anything. The data model, integrations and scope are agreed in writing before production code is written, so there are no surprises later.\n\n02 · Ownership\n\n### You Own What We Build\n\nThe code, designs and documentation we create for you are yours. Repositories, hosting and domains sit in your accounts, so you can change supplier without starting again.\n\n03 · Build to last\n\n### Software Others Can Maintain\n\nReadable code, code review, automated tests and documentation, so the software can be looked after by us, by your own team, or by anyone you choose.\n\n04 · Stay after launch\n\n### Support That Continues\n\nLaunch is the start. We fix issues, keep software and dependencies up to date, and add features as your users ask for them."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "THE PEOPLE",
+      "title": "Who You'll Work With",
+      "body": "The people who scope your project are the people who build it and support it.\n\n![Sameer Bhat](/media/imported/sameer-bhat-400.webp)\n\n![Azhar Ali Dar](/media/imported/azhar-ali-dar-800.webp)\n\n![Muntazir](/media/imported/muntazir-400.webp)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "LEGAL & CORPORATE VERIFICATION",
+      "title": "Company Details",
+      "body": "- **Company name:** Cyber Spark IT Services Ltd\n\n- **Company number:** 14891489\n\n- **Registered office:** London, United Kingdom\n\n- **Contact:** [info@cyberspark.uk](mailto:info@cyberspark.uk) · +44 (0) 2080580089\n\nCyber Spark IT Services Ltd also operates [EOR Services UK](https://www.eor-services.co.uk/), providing dedicated UK Employer of Record, payroll outsourcing, and employer statutory compliance.\n\n[Explore our services →](/services) [Talk to us →](/contact)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "START A CONVERSATION",
+      "title": "Have something you want to build or improve?",
+      "body": "Tell us about your idea, your current system or the problem you are facing, and we will help you work out the practical next steps.\n\n- A first conversation with the people who would build it.\n\n- Contract with a UK company: Cyber Spark IT Services Ltd, London.\n\n- You own the code, designs and documentation we create for you.\n\n- Email: info@cyberspark.uk · Phone: +44 (0) 20 8058 0089"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE OUR SERVICES",
+      "title": "Engineering Practices & Delivery Solutions",
+      "body": "### Bespoke Software Development UK\n\nSoftware built around how your business works, from internal systems to customer platforms, and the code is yours.\n\n### Hire Developers in India (EOR)\n\nDedicated developers in India, project outsourcing or an Employer of Record, without opening an Indian company.\n\n### WorkSpace by CyberSpark\n\nGit work inside tickets, standups on a shared calendar, and leave tracking for UK and Indian teams."
+    }
+  ]
+}

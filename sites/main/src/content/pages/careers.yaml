@@ -1,0 +1,32 @@
+# Imported from https://www.cyberspark.uk/careers (Craeft).
+{
+  "title": "Careers",
+  "seo": {
+    "title": "Careers at CyberSpark | Software Engineering Jobs",
+    "description": "Software engineering jobs at CyberSpark: open roles in development, design, QA and DevOps with our engineering team in India, and how we work."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Careers at CyberSpark",
+      "lead": "Software engineering jobs at CyberSpark: open roles in development, design, QA and DevOps with our engineering team in India, and how we work."
+    },
+    {
+      "blockType": "prose",
+      "body": "Join our engineering team in India, building software for our clients and our own products."
+    },
+    {
+      "blockType": "prose",
+      "title": "No open roles right now",
+      "body": "We're always glad to hear from good people. Send us your CV and we'll be in touch when something fits."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Life at CyberSpark",
+      "title": "Why work with us",
+      "body": "### Challenging projects\n\nClient platforms and our own products: SparkTalent, WorkSpace and AI Visibility Check.\n\n### A collaborative team\n\nEngineers, designers and product managers work together on each project.\n\n### Modern tools\n\nCurrent frameworks, cloud platforms and AI tooling on client and product work.\n\n### Open, honest working\n\nClear goals, straight feedback and direct access to the people making decisions."
+    }
+  ]
+}

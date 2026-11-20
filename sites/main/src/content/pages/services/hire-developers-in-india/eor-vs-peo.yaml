@@ -1,0 +1,67 @@
+# Imported from https://www.cyberspark.uk/services/hire-developers-in-india/eor-vs-peo (Craeft).
+{
+  "title": "EOR vs PEO: Which Model Is Right for UK Companies Hiring Abroad?",
+  "seo": {
+    "title": "EOR vs PEO: Which Suits UK Companies Hiring in India?",
+    "description": "EOR vs PEO for UK companies hiring in India. How each model works, why a PEO needs your own Indian entity, who carries the employment risk, and which to choose."
+  },
+  "updatedAt": "2026-11-20",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "EOR vs PEO: Which Model Is Right for UK Companies Hiring Abroad?",
+      "lead": "EOR vs PEO for UK companies hiring in India. How each model works, why a PEO needs your own Indian entity, who carries the employment risk, and which to choose."
+    },
+    {
+      "blockType": "prose",
+      "body": "EOR (Employer of Record) and PEO (Professional Employer Organisation) are both third-party employment vehicles, but they are fundamentally distinct. This guide explains how each applies to UK companies hiring software engineers in India, and why the distinction is vital for corporate compliance and operational control.\n\nAt a Glance\n\n- EOR needs no Indian entity\n\n- PEO requires your own Indian entity\n\n- EOR carries 100% employment compliance\n\n- PEO means shared, co-employer liability\n\n- **Outcome 01:** EOR is the only legal route without an entity\n\n- **Outcome 02:** PEO is not formally recognised in Indian law\n\n- **Outcome 03:** You direct the work under either model\n\n- **Outcome 04:** 100% IP assignment under EOR"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "The core distinction",
+      "title": "The Short Answer for UK Engineering Leaders",
+      "body": "EOR (Employer of Record)\n\n### CyberSpark Is the Sole Legal Employer\n\nYour Indian software engineers are employed legally by CyberSpark's Indian entity. You direct their daily roadmap and codebase; CyberSpark carries 100% of employment compliance, payroll, and statutory risk. Zero Indian corporate entity required on your side.\n\nPEO (Professional Employer Organisation)\n\n### Co-Employment Requiring Your Own Entity\n\nThe third party co-employs workers alongside your business. Co-employment legally mandates that your company already holds an established corporate presence in-country. PEO does not eliminate the need for an Indian subsidiary.\n\n### EOR vs PEO: Detailed Structural Comparison\n\nCompare liability, entity prerequisites, IP protection, and geographic applicability:\n\n| Structural dimension | Employer of Record (EOR) | PEO (co-employment) |\n| --- | --- | --- |\n| Legal employer of record | EOR entity only (CyberSpark) | Joint: PEO + client company co-employ |\n| Client needs a local entity | No (zero entity required) | Yes (mandatory local entity) |\n| Client in-country legal exposure | Minimal — EOR absorbs statutory employer risk | Shared — you remain legally liable as co-employer |\n| Statutory compliance management | EOR handles 100% (PF, ESI, PT, Form 16) | Shared administrative division |\n| Day-to-day management control | You direct engineering tasks & sprints | You direct engineering tasks & sprints |\n| Monthly payroll execution | EOR runs INR payroll & single GBP billing | PEO runs payroll on your corporate tax ID |\n| Prevalence & recognition in India | Standard, robust legal framework | Rare — not formally recognised in Indian law |\n| Prevalence in the United States | Specialist application | Dominant domestic HR framework |\n| Intellectual property ownership | 100% client ownership via assignment | Depends on co-employment terms — verify |"
+    },
+    {
+      "blockType": "prose",
+      "title": "Why PEO Is Rarely the Right Model for India",
+      "body": "PEO as a recognised employment structure is primarily an American legal construct. The United States maintains a defined statutory framework for co-employment governed under [26 U.S. Code § 7705 →](https://www.irs.gov/charities-non-profits/certified-professional-employer-organizations) and state-level workers' compensation acts.\n\nIn India, no equivalent co-employment statute exists under the [Ministry of Labour & Employment →](https://labour.gov.in/) framework. Third-party staffing in India is governed by the Occupational Safety, Health and Working Conditions Code, 2020, which replaced the Contract Labour (Regulation and Abolition) Act, 1970 when India's labour codes came into force on 21 November 2025; the alternative is direct employment through an Employer of Record. For how an EOR arrangement works in practice, see our EOR guide → or our dedicated UK portal [EOR Services UK →](https://www.eor-services.co.uk/).\n\nThe Litmus Test for UK Companies\n\n### Who Is the Legal Employer on the Payslip?\n\nIf you are a UK company without an Indian entity and a provider markets their service as a \"Global PEO for India\", ask them directly: \"Whose registered corporate entity name appears on the employee's contract and payslip?\" If the answer is \"our local Indian entity, not yours\", you are entering an EOR arrangement regardless of marketing terminology."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "SELECTION BLUEPRINT",
+      "title": "The Four-Step International Employment Roadmap",
+      "body": "How UK technology firms evaluate entity prerequisites and establish compliant Indian employment:\n\n- 01Day 1Entity AuditDetermine Legal Prerequisites\n\n- 02Days 2–3ContractingUK-Law Governance & IP\n\n- 03Days 4–7OnboardingCompliant Indian Employment\n\n- 04OngoingDeliveryWorkSpace Standups & Git Sync\n\n### Entity Audit\n\nConfirm whether your UK business holds an active Indian Pvt. Ltd. If no entity exists, EOR is the only viable, legal model.\n\nExpected window: Day 1\n\n- Entity prerequisite confirmation\n\n- Zero-entity EOR route validated"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Practical application",
+      "title": "When UK Companies Encounter the Choice",
+      "body": "UK technology leaders face this distinction in one of two distinct business scenarios:\n\nScenario 01 · typical for UK firms starting out\n\n### No Indian Legal Entity\n\nYou have no Indian Pvt. Ltd. or LLP, and need to employ software engineers in Bengaluru, Mumbai, or Pune. EOR is your only legal option. CyberSpark acts as the legal employer of record, shielding your UK business from foreign registration overhead.\n\nCyberSpark's core service is architected precisely for this scenario.\n\nScenario 02 · established operations\n\n### Existing Indian Subsidiary\n\nYou already operate an incorporated Indian entity, but wish to outsource payroll processing, statutory tax filings, and benefits administration to an external partner. This is a domestic HR outsourcing model, not an entity-replacement service.\n\nCyberSpark can advise on specialist Indian payroll bureaus if you already have an entity.\n\n### Decoding Provider Terminology\n\nThe terms EOR and PEO are used loosely across global HR technology marketing. Here is what providers actually mean:\n\n| Marketing term | What it actually delivers | Local entity required? |\n| --- | --- | --- |\n| \"Global PEO\" | An Employer of Record (EOR) operating in multiple countries | No |\n| \"PEO for India\" | An EOR in India (since true PEO requires an Indian entity) | No |\n| \"Co-Employment via PEO\" | Domestic HR co-employment (US only; invalid in India without entity) | Yes |\n| \"Employer of Record (EOR)\" | Full third-party legal employment and payroll compliance | No |"
+    },
+    {
+      "blockType": "prose",
+      "title": "The Compliance & Permanent Establishment (PE) Dimension",
+      "body": "For UK technology firms hiring engineers in India, the choice between EOR and co-employment models impacts corporate tax exposure and statutory liability:\n\nWith CyberSpark EOR\n\n### Legal Insulation & Minimized PE Risk\n\nCyberSpark is the formal legal employer in India, assuming local employment compliance liabilities. Your UK company holds a B2B commercial services agreement governed by English law.\n\nReduced tax exposure: because engineers deliver software services under an EOR services contract rather than direct corporate agency, Permanent Establishment (PE) risk is significantly reduced for software product roadmaps.\n\nWith Genuine PEO\n\n### Shared Liability & Direct Corporate Nexus\n\nUnder genuine co-employment, your company remains a named co-employer. If the PEO defaults on local tax remissions, your local entity shares full joint liability before Indian authorities.\n\nDirect nexus: a co-employment structure requires your own Indian entity, establishing an undeniable corporate tax nexus in-country and mandating annual corporate tax filings."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "STRUCTURAL CONSULTATION",
+      "title": "Review Your International Employment Options",
+      "body": "Consult directly with our UK technical leadership. We will evaluate your proposed team structure, compliance requirements, and IP parameters to confirm the right model."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Frequently Asked Questions: EOR vs PEO",
+      "body": "Answers regarding pricing differences, using EOR and PEO simultaneously, permanent establishment risk, and co-employment liability."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "EXPLORE SERVICES & PLATFORMS",
+      "title": "Related Services & Platforms",
+      "body": "### Employer of Record (EOR) India\n\nLegally employ software engineers in India directly under your brand with zero Indian entity required.\n\n### EOR vs Outsourcing vs Augmentation\n\nComprehensive guide comparing team management control, outcome accountability, and pricing structures.\n\n### EOR vs Setting Up an Indian Entity\n\nStrategic analysis of incorporating an Indian Pvt. Ltd. versus agile Employer of Record employment.\n\n### Offshore Software Development India\n\nDedicated UK-directed engineering teams for ongoing product development and technical roadmap velocity.\n\n### SparkTalent Platform\n\nTechnical hiring assessment platform with real Git repos, live code execution, and benchmarked scoring.\n\n### WorkSpace Platform\n\nDistributed team operations, automated standup sync, and delivery visibility for UK engineering leaders."
+    }
+  ]
+}
