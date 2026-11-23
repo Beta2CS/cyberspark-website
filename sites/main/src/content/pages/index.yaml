@@ -5,7 +5,7 @@
   "updatedAt": "2026-11-20",
   "blocks":
     [
-      {"blockType": "hero", "variant": "home", "buttons": [{"label": "Book a free call", "href": "/contact"}, {"label": "What we do", "href": "/services"}], "title": "A UK Software Development Company That Supports You After Launch.", "lead": "CyberSpark is a UK software development company: bespoke software, web and mobile apps, AI, SEO and AI search, and dedicated developer teams in India.", eyebrow: Test ph},
+      {"blockType": "hero", "variant": "home", "buttons": [{"label": "Book a free call", "href": "/contact"}, {"label": "What we do", "href": "/services"}], "title": "A UK Software Development Company That Supports You After Launch.", "lead": "CyberSpark is a UK software development company: bespoke software, web and mobile apps, AI, SEO and AI search, and dedicated developer teams in India.", eyebrow: Test phone},
       {
           "blockType": "prose",
           "body": "CyberSpark builds bespoke software, websites and mobile apps for UK businesses, and helps UK tech companies hire developers in India. We are registered in London, our engineering team is in India, and you own everything we build for you.
